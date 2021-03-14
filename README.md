@@ -4,7 +4,7 @@
 - 🌱 Passionate about Designing & Implementing Data Product Solutions for Real Customer Problems..
 - 👔 I hold a Master's in Management (Marketing & Strategy) and currently pursuing MSc in Big Data Analytics
 - ⚡ Fun fact - I'm an introvert, but I love making new Friends!
-- 👯 I’m looking to collaborate on Product Analytics & Data Technology Projects
+- 👯 I’m looking to collaborate on Product Analytics & Data Technology Projects..
 - 💬 You can ask me about - Customer Intelligence, Product Innovation, Marketing Analytics, User Advocacy..
 
 ### Languages & Tools:
