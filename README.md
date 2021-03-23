@@ -3,7 +3,7 @@
 - 👉 A Customer Obsessed professional who is Addicted to Learning and Growing Everyday!
 - 🌱 Passionate about Designing & Implementing Data Product Solutions for Real Customer Problems..
 - 👔 I hold a Master's in Management (Marketing & Strategy) and currently pursuing MSc in Big Data Analytics
-- ⚡ Fun fact - I'm an introvert, but I love working within a Team with a common Passion to Excel & Grow!
+- ⚡ Fun fact - I'm an introvert, but I love working with People passionate to Excel & Grow!
 - 👯 I’m looking to collaborate on Product Analytics & Data Technology Projects..
 - 💬 You can ask me about - Customer Intelligence, Product Innovation, Marketing Analytics, User Advocacy..
 
