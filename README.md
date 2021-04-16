@@ -1,11 +1,11 @@
 ### Hello, I'm Prineet Kaur and I'm a Data Product Enthusiast <img src="https://i.postimg.cc/1tgmyzsx/waving-hand-sign-1024.gif" width="30px">
 
 - 👉 A Customer Obsessed professional who is Addicted to Learning and Growing Everyday!
-- 🌱 Passionate about Designing & Implementing Data Product Solutions for Real Customer Problems..
+- 🌱 Passionate about Designing and Implementing Data Product Solutions for Real Customer Problems..
 - 👔 I hold a Master's in Management (Marketing & Strategy) and currently pursuing MSc in Big Data Analytics
 - ⚡ Fun fact - I am a Foodie, and my Perfect day starts with Tasty Food and ends with Tasty Food :)
 - 👯 I’m looking to collaborate on Product Analytics & Data Technology Projects..
-- 💬 You can ask me about - Customer Intelligence, Product Innovation, Marketing Analytics, User Advocacy..
+- 💬 You can ask me about - Product Innovation, User Advocacy, Customer Intelligence, Marketing Analytics..
 
 ### Languages & Tools:
 
