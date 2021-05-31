@@ -1,4 +1,4 @@
-### Hello, I'm Prineet Kaur and I'm a Data Product Enthusiast <img src="https://i.postimg.cc/1tgmyzsx/waving-hand-sign-1024.gif" width="30px">
+### Hello, I am Prineet Kaur and I am a Data Product Enthusiast <img src="https://i.postimg.cc/1tgmyzsx/waving-hand-sign-1024.gif" width="30px">
 
 - 👉 An Agile & Customer Obsessed professional who is Addicted to Learning and Growing Everyday!
 - 🌱 Passionate about Designing and Implementing Data Product Solutions for Real Customer Problems..
