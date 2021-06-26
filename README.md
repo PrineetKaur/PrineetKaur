@@ -5,7 +5,7 @@
 - 👔 I hold a Master's in Management (with majors in Marketing) and MSc in Big Data Analytics
 - ⚡ Fun fact - I am a Foodie, and my Perfect day starts and ends with Tasty Food :)
 - 👯 Looking to collaborate on Product Innovation and Data Technology Projects..
-- 💬 You can ask me about - Data Products, User Advocacy, Customer Intelligence, Marketing Analytics..
+- 💬 You can ask me about - Data Products, User Advocacy, Product Innovation, Customer Intelligence..
 
 ### Languages & Tools:
 
