@@ -3,7 +3,7 @@
 - 👉  An Agile & Customer Obsessed professional who is Addicted to Learning and Growing Everyday!
 - 🌱  Passionate about Designing and Implementing Data Product Solutions for Real Customer Problems..
 - 👔  I hold a Master's in Management (with majors in Marketing) and MSc in Big Data Analytics
-- 📣  Fun fact - I am a Foodie, and my Perfect day starts and ends with Tasty Food :)
+- 📣  Fun Fact - I am a Foodie, and my Perfect day starts and ends with Tasty Food :)
 - 👯  Looking to collaborate on Product Innovation and Data Technology Projects..
 - 💬  You can ask me about - Data Products, User Advocacy, Product Innovation, Website Optimization..
 
