@@ -1,6 +1,6 @@
 ### Hello, I am Prineet Kaur and I am a Data Product Enthusiast <img src="https://i.postimg.cc/1tgmyzsx/waving-hand-sign-1024.gif" width="30px">
 
-- 👉  An Agile & Customer Obsessed professional who is Addicted to Learning and Growing Everyday!
+- 👉  An Agile and Customer Obsessed professional who is Addicted to Learning & Growing Everyday!
 - 🌱  Passionate about Designing and Implementing Data Product Solutions for Real Customer Problems..
 - 👔  I'm a Computer Science Engineer with MBA in Marketing and MSc in Big Data Analytics
 - 📣  Fun Fact - I am a Foodie, and my Perfect day starts and ends with Tasty Food :)
