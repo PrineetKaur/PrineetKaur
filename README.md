@@ -7,7 +7,7 @@
 - 👯  Looking to collaborate on Product Innovation and Data Technology Projects..
 - 💬  You can ask me about - AI, ML, Cloud Native Apps, IoT/IoB, or anything related to Product Management..
 
-### Languages & Tools:
+### Languages & Tools
 
 <img align="left" alt="python" width="60px" src="https://i.postimg.cc/bN9n26c6/logo-python.png" />
 <img align="left" alt="r" width="70px" src="https://i.postimg.cc/SRNh1NRY/R-logo-svg.png" />
