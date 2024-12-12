@@ -1,4 +1,4 @@
-### Hello, I am Prineet Kaur, AI & Data Technology Product Enthusiast 👋
+### Hello, I am Prineet Kaur, AI & Data Product Enthusiast 👋
 
 - 👉  An Agile & Customer Obsessed professional, I'm Addicted to Learning and Growing Everyday!
 - 🌱  Passionate about Designing and Implementing Technical Product Solutions for Real Customer Problems..
