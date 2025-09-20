@@ -1,6 +1,7 @@
 ### Hello, I am Prineet Kaur, Data Product Enthusiast 👋
 
-- 👉  An Agile, dynamic & customer-obsessed professional with data & tech oriented mindset and 9 years experience of leading innovative products within IT/DevOps, Data Cloud, E-Commerce, Digital Banking & Fintech space
+- 👉  An Agile, dynamic & customer-obsessed professional with data oriented mindset with over 9 years of experience
+- ⚙️  Led & scaled innovative tech products within IT/DevOps, Data Cloud, E-Commerce, Digital Banking & Fintech space
 - 👩‍💻  I'm passionate about translating Complex Data & Tech topics into Impactful Features that solve Real User Needs..
 - 👔  I'm a Computer Science Engineer with MBA (in Product Management & IT Systems) and MSc in Big Data Analytics
 - 📣  Fun Fact -> I am a Foodie, and my Perfect day starts and ends with Tasty Food :)
