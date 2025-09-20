@@ -1,11 +1,11 @@
 ### Hello, I am Prineet Kaur, AI & Data Product Enthusiast 👋
 
 - 👉  An Agile & Customer Obsessed professional, I'm Addicted to Learning and Growing Everyday!
-- 🌱  Passionate about Designing and Implementing Technical Product Solutions for Real Customer Problems..
-- 👔  I'm a Computer Science Engineer with MBA in Product Management and MSc in Big Data Analytics
+- 🌱  I'm passionate about translating Complex Data & Tech topics into Impactful Features that solve Real User Needs..
+- 👔  I'm a Computer Science Engineer with MBA (in Product Management & IT Systems) and MSc in Big Data Analytics
 - 📣  Fun Fact -> I am a Foodie, and my Perfect day starts and ends with Tasty Food :)
-- 👯  Looking to collaborate on Product Innovation and Data Technology Projects..
-- 💬  Ask me about - AI, ML, Big Data Analytics, Cloud Native Apps, IoT/IoB, or anything related to Product Mgmt..
+- 👯  Always up for New Challenges, Learn & be a Better Version of Myself!..
+- 💬  Ask me about: Modern System Design, Scalable Architecture, Self Service Apps, API Integrations, Infrastructure, Developer Experience, IDPs/Dev Portals/PaaS, Modern DevOps, GreenIT and offcourse anything related to Product Managment..
 
 ### Languages and Tools 
 
