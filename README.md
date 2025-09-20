@@ -4,8 +4,8 @@
 - 🎓  Computer Science Engineer with MBA in Product Management & IT Systems along with an MSc in Big Data Analytics
 - 👩‍💻  Passionate about translating Complex Data & Tech topics into Impactful Features that solve Real User Needs..
 - 👔  Led innovative tech products within IT/DevOps, Data Cloud, E-Commerce, Digital Banking & Fintech space
-- 📣  Fun Fact -> I am a Foodie, and my Perfect day starts and ends with Tasty Food :)
 - 💪  Always up for New Challenges, Curiously Learning & being a Better Version of Myself!..
+- 📣  Fun Fact -> I am a Foodie, and my Perfect day starts and ends with Tasty Food :)
 - 💬  Ask me about: Modern System Design, Scalable Architecture, Self Service Apps, API Integrations, Infrastructure, Developer Experience, IDPs/Dev Portals/PaaS, Modern DevOps, GreenIT and offcourse anything related to Product Managment..
 
 ### Languages and Tools 
