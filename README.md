@@ -16,7 +16,7 @@
 <img align="left" height="60" width="60" src="https://i.postimg.cc/HnKh0pyg/1300px-Tableau-Software-logo.png" />
 <img align="left" height="60" width="60" src="https://i.postimg.cc/zGYdq2w0/1200px-Power-bi-logo-black-svg.png" />
 <img align="left" alt="kubernetes" height="80" width="60px" src="https://i.postimg.cc/13k4v7xg/kubernetes.png" />
-<img align="left" alt="docker" height="50" width="60px" src="https://i.postimg.cc/66c0Fnp6/docker.png" />
+<img align="left" alt="docker" height="90" width="70px" src="https://i.postimg.cc/66c0Fnp6/docker.png" />
 <img align="left" alt="ga" width="60px" src="https://i.postimg.cc/QdWHJSRG/Google-analytics.jpg" />
 <img align="left" height="50" width="70" src="https://i.postimg.cc/J076Csbm/SAS-logo.png" />
 
