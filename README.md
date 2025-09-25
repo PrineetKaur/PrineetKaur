@@ -15,7 +15,7 @@
 <img align="left" alt="sql" width="60px" src="https://i.postimg.cc/MG9zgR7W/SQL.jpg" />
 <img align="left" height="60" width="60" src="https://i.postimg.cc/HnKh0pyg/1300px-Tableau-Software-logo.png" />
 <img align="left" height="60" width="60" src="https://i.postimg.cc/zGYdq2w0/1200px-Power-bi-logo-black-svg.png" />
-<img align="left" alt="gcloud" height="50" width="60px" src="https://i.postimg.cc/vZN5btJM/kubernetes.png" />
+<img align="left" alt="gcloud" height="50" width="60px" src="https://i.postimg.cc/13k4v7xg/kubernetes.png" />
 <img align="left" alt="aws" height="50" width="60px" src="https://i.postimg.cc/nr7P1yY9/AWS.png" />
 <img align="left" alt="ga" width="60px" src="https://i.postimg.cc/QdWHJSRG/Google-analytics.jpg" />
 <img align="left" height="50" width="70" src="https://i.postimg.cc/J076Csbm/SAS-logo.png" />
