@@ -6,13 +6,14 @@
 - 👔  Led innovative tech products within IT/DevOps, Data Cloud, E-Commerce, Digital Banking & Fintech space
 - 💪  Always up for New Challenges, Curiously Learning & being a Better Version of Myself!..
 - 📣  Fun Fact -> I am a Foodie, and my Perfect day starts and ends with Tasty Food 
-- 💬  Ask me about: Modern System Design, Scalable Architecture, Self Service Apps, API Integrations, Infrastructure, Developer Experience, IDPs/Dev Portals/PaaS, Modern DevOps, GreenIT and ofcourse anything related to Product Managment 🤓
+- 💬  Ask me about: Modern System Design, Scalable Architecture, Self Service Apps, API Integrations, Infrastructure, Developer Experience, IDPs/Dev Portals/PaaS, Modern DevOps, GreenIT and ofcourse anything related to Product Management 🤓
 
-### Languages and Tools 
+### Languages and Tools of My Trade ⚙️
 
 <img align="left" alt="python" width="60px" src="https://i.postimg.cc/bN9n26c6/logo-python.png" />
 <img align="left" alt="r" width="70px" src="https://i.postimg.cc/SRNh1NRY/R-logo-svg.png" />
 <img align="left" alt="sql" width="60px" src="https://i.postimg.cc/MG9zgR7W/SQL.jpg" />
+<img align="left" alt="gbq" width="60px" src="https://i.postimg.cc/CLKSy3bZ/GBQ.png" />
 <img align="left" alt="heroku" width="60px" src="https://i.postimg.cc/8CrHJYGt/heroku.png" />
 <img align="left" alt="databricks" height="60" width="60" src="https://i.postimg.cc/pXXHtfQs/databricks.png" />
 <img align="left" alt="kafka" height="60" width="70" src="https://i.postimg.cc/WtLBJZFH/kafka.png" />
@@ -22,6 +23,8 @@
 <img align="left" alt="power BI" height="60" width="60" src="https://i.postimg.cc/zGYdq2w0/1200px-Power-bi-logo-black-svg.png" />
 <img align="left" alt="tableau" height="60" width="60" src="https://i.postimg.cc/HnKh0pyg/1300px-Tableau-Software-logo.png" />
 <img align="left" alt="vs" width="60px" src="https://i.postimg.cc/MG31520y/VS.png" />
+
+
 
 
 
