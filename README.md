@@ -13,7 +13,6 @@
 <img align="left" alt="python" width="60px" src="https://i.postimg.cc/bN9n26c6/logo-python.png" />
 <img align="left" alt="r" width="70px" src="https://i.postimg.cc/SRNh1NRY/R-logo-svg.png" />
 <img align="left" alt="sql" width="60px" src="https://i.postimg.cc/MG9zgR7W/SQL.jpg" />
-/*<img align="left" alt="gbq" width="60px" src="https://i.postimg.cc/CLKSy3bZ/GBQ.png" />*/
 <img align="left" alt="heroku" width="60px" src="https://i.postimg.cc/8CrHJYGt/heroku.png" />
 <img align="left" alt="databricks" height="60" width="60" src="https://i.postimg.cc/pXXHtfQs/databricks.png" />
 <img align="left" alt="kafka" height="60" width="70" src="https://i.postimg.cc/WtLBJZFH/kafka.png" />
