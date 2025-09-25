@@ -21,6 +21,10 @@
 <img align="left" alt="datadog" width="60px" src="https://i.postimg.cc/XqFSsL98/DD.png" />
 <img align="left" alt="power BI" height="60" width="60" src="https://i.postimg.cc/zGYdq2w0/1200px-Power-bi-logo-black-svg.png" />
 
+<br />
+<br />
+<br />
+<br />
 
 <img align="left" alt="BIMT" height="250" width="250px" src="https://i.postimg.cc/0j6Hrk8j/Tech-Joke.jpg" />
 
