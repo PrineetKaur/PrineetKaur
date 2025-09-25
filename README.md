@@ -20,8 +20,7 @@
 <img align="left" alt="docker" height="80" width="70px" src="https://i.postimg.cc/sfWcDqmX/docker.png" />
 <img align="left" alt="datadog" width="60px" src="https://i.postimg.cc/XqFSsL98/DD.png" />
 <img align="left" alt="power BI" height="60" width="60" src="https://i.postimg.cc/zGYdq2w0/1200px-Power-bi-logo-black-svg.png" />
-<img align="left" alt="tableau" height="60" width="60" src="https://i.postimg.cc/HnKh0pyg/1300px-Tableau-Software-logo.png" />
-<img align="left" alt="vs" width="60px" src="https://i.postimg.cc/MG31520y/VS.png" />
+
 
 
 
