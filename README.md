@@ -8,6 +8,8 @@
 - 📣  Fun Fact -> I am a Foodie, and my Perfect day starts and ends with Tasty Food 
 - 💬  Ask me about: Modern System Design, Scalable Architecture, Self Service Apps, API Integrations, Infrastructure, Developer Experience, IDPs/Dev Portals/PaaS, Modern DevOps, GreenIT and ofcourse anything related to Product Management 🤓
 
+- <img align="left" alt="BIMT" height="60" width="60px" src="https://i.postimg.cc/0j6Hrk8j/Tech-Joke.jpg" />
+
 ### Languages and Tools of My Trade ⚙️
 
 <img align="left" alt="python" width="60px" src="https://i.postimg.cc/bN9n26c6/logo-python.png" />
