@@ -5,7 +5,7 @@
 - 👩‍💻  Passionate about translating Complex Data & Tech topics into Impactful Features that solve Real User Needs..
 - 👔  Led innovative tech products within IT/DevOps, Data Cloud, E-Commerce, Digital Banking & Fintech space
 - 💪  Always up for New Challenges, Curiously Learning & being a Better Version of Myself!..
-- 📣  Fun Fact -> I am a Foodie, and my Perfect day starts and ends with Tasty Food ❤️
+- 📣  Fun Fact -> I am a Foodie, and my Perfect day starts and ends with Tasty Food 
 - 💬  Ask me about: Modern System Design, Scalable Architecture, Self Service Apps, API Integrations, Infrastructure, Developer Experience, IDPs/Dev Portals/PaaS, Modern DevOps, GreenIT and ofcourse anything related to Product Managment 🤓
 
 ### Languages and Tools 
@@ -20,7 +20,7 @@
 <img align="left" alt="datadog" width="60px" src="https://i.postimg.cc/XqFSsL98/DD.png" />
 <img align="left" alt="power BI" height="60" width="60" src="https://i.postimg.cc/zGYdq2w0/1200px-Power-bi-logo-black-svg.png" />
 <img align="left" alt="tableau" height="60" width="60" src="https://i.postimg.cc/HnKh0pyg/1300px-Tableau-Software-logo.png" />
-<img align="left" alt="ga" width="60px" src="https://i.postimg.cc/QdWHJSRG/Google-analytics.jpg" />
+
 
 
 
