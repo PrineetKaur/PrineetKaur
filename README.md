@@ -6,7 +6,7 @@
 - 👔  Led innovative tech products within IT/DevOps, Data Cloud, E-Commerce, Digital Banking & Fintech space
 - 💪  Always up for New Challenges, Curiously Learning & being a Better Version of Myself!..
 - 📣  Fun Fact -> I am a Foodie, and my Perfect day starts and ends with Tasty Food :)
-- 💬  Ask me about: Modern System Design, Scalable Architecture, Self Service Apps, API Integrations, Infrastructure, Developer Experience, IDPs/Dev Portals/PaaS, Modern DevOps, GreenIT and offcourse anything related to Product Managment..
+- 💬  Ask me about: Modern System Design, Scalable Architecture, Self Service Apps, API Integrations, Infrastructure, Developer Experience, IDPs/Dev Portals/PaaS, Modern DevOps, GreenIT and ofcourse anything related to Product Managment..
 
 ### Languages and Tools 
 
