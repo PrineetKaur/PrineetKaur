@@ -14,7 +14,7 @@
 <img align="left" alt="r" width="70px" src="https://i.postimg.cc/SRNh1NRY/R-logo-svg.png" />
 <img align="left" alt="sql" width="60px" src="https://i.postimg.cc/MG9zgR7W/SQL.jpg" />
 <img align="left" alt="kubernetes" height="80" width="60px" src="https://i.postimg.cc/13k4v7xg/kubernetes.png" />
-<img align="left" alt="docker" height="500" width="100px" src="https://i.postimg.cc/66c0Fnp6/docker.png" />
+<img align="left" alt="docker" height="80" width="70px" src="https://i.postimg.cc/sfWcDqmX/docker.png" />
 <img align="left" alt="databricks" height="60" width="60" src="https://i.postimg.cc/pXXHtfQs/databricks.png" />
 <img align="left" alt="power BI" height="60" width="60" src="https://i.postimg.cc/zGYdq2w0/1200px-Power-bi-logo-black-svg.png" />
 <img align="left" alt="tableau" height="60" width="60" src="https://i.postimg.cc/HnKh0pyg/1300px-Tableau-Software-logo.png" />
