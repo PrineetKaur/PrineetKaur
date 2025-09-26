@@ -8,7 +8,7 @@
 - 📣  Fun Fact -> I am a Foodie, and my Perfect day starts and ends with Tasty Food 
 - 💬  Ask me about: Modern System Design, Scalable Architecture, Self Service Apps, API Integrations, Infrastructure, Developer Experience, IDPs/Dev Portals/PaaS, Modern DevOps, GreenIT and ofcourse anything related to Product Management 🤓
 
-Contact me  📞:
+Ping me:
   [<img align = "center" height="25" width="100" src ="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/prineetkaur/
