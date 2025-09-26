@@ -21,27 +21,8 @@
 <img align="left" alt="datadog" width="60px" src="https://i.postimg.cc/XqFSsL98/DD.png" />
 <img align="left" alt="power BI" height="60" width="60" src="https://i.postimg.cc/zGYdq2w0/1200px-Power-bi-logo-black-svg.png" />
 
-<br />
-<br />
-<br />
-<br />
+------
 
-<img align="left" alt="BIMT" height="250" width="250px" src="https://i.postimg.cc/0j6Hrk8j/Tech-Joke.jpg" />
-<br />
-<img align="left" alt="UX vs UX" height="250" width="250px" src="https://i.postimg.cc/P57szmss/UX.jpg" />
-
-
-
-
-
-
-
-
-
-<br />
-<br />
-<br />
-<br />
 <br />
 <br />
 <br />
@@ -57,4 +38,24 @@ Contact me  📞:
 
 ------
 
+<br />
+<br />
+<br />
+<br />
+
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=PrineetKaur&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/PrineetKaur/github-readme-stats)
+
+------
+
+<br />
+<br />
+<br />
+<br />
+
+<img align="left" alt="BIMT" height="250" width="250px" src="https://i.postimg.cc/0j6Hrk8j/Tech-Joke.jpg" />
+<br />
+<img align="left" alt="UX vs UX" height="250" width="250px" src="https://i.postimg.cc/P57szmss/UX.jpg" />
+
+------
+
+
