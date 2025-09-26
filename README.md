@@ -27,6 +27,7 @@
 <br />
 
 <img align="left" alt="BIMT" height="250" width="250px" src="https://i.postimg.cc/0j6Hrk8j/Tech-Joke.jpg" />
+<br />
 <img align="left" alt="UX vs UX" height="250" width="250px" src="https://i.postimg.cc/P57szmss/UX.jpg" />
 
 
