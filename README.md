@@ -8,6 +8,7 @@
 - 📣  Fun Fact -> I am a Foodie, and my Perfect day starts and ends with Tasty Food 
 - 💬  Ask me about: Modern System Design, Scalable Architecture, Self Service Apps, API Integrations, Infrastructure, Developer Experience, IDPs/Dev Portals/PaaS, Modern DevOps, GreenIT and ofcourse anything related to Product Management 🤓
 
+------
 ### Languages and Tools of My Trade ⚙️
 
 <img align="left" alt="python" width="60px" src="https://i.postimg.cc/bN9n26c6/logo-python.png" />
@@ -27,14 +28,6 @@
 
 ------
 
-<br />
-<br />
-<br />
-<br />
-
-
-------
-
 Contact me  📞:
   [<img align = "center" height="25" width="100" src ="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
@@ -48,8 +41,10 @@ Contact me  📞:
 
 
 <img align="left" alt="BIMT" height="250" width="250px" src="https://i.postimg.cc/0j6Hrk8j/Tech-Joke.jpg" />
+<img align="left" alt="UX vs UX" height="350" width="250px" src="https://i.postimg.cc/P57szmss/UX.jpg" />
+
 <br />
-<img align="left" alt="UX vs UX" height="250" width="250px" src="https://i.postimg.cc/P57szmss/UX.jpg" />
+<br />
 
 ------
 
