@@ -8,6 +8,11 @@
 - 📣  Fun Fact -> I am a Foodie, and my Perfect day starts and ends with Tasty Food 
 - 💬  Ask me about: Modern System Design, Scalable Architecture, Self Service Apps, API Integrations, Infrastructure, Developer Experience, IDPs/Dev Portals/PaaS, Modern DevOps, GreenIT and ofcourse anything related to Product Management 🤓
 
+Contact me  📞:
+  [<img align = "center" height="25" width="100" src ="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/prineetkaur/
+
 ------
 ### Languages and Tools of My Trade ⚙️
 
@@ -28,13 +33,6 @@
 
 ------
 
-Contact me  📞:
-  [<img align = "center" height="25" width="100" src ="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/prineetkaur/
-
-------
-
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=PrineetKaur&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/PrineetKaur/github-readme-stats)
 
 ------
@@ -45,6 +43,9 @@ Contact me  📞:
 
 <br />
 <br />
+<br />
+<br />
+
 
 ------
 
