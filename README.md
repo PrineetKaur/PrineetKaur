@@ -27,6 +27,8 @@
 <br />
 
 <img align="left" alt="BIMT" height="250" width="250px" src="https://i.postimg.cc/0j6Hrk8j/Tech-Joke.jpg" />
+<img align="left" alt="All is Data" height="150" width="250px" src="https://i.postimg.cc/cLgf6SdX/It-s-all-about-data.jpg" />
+
 
 
 
