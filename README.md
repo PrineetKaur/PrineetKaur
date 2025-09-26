@@ -40,7 +40,7 @@ Ping me:
 
 <img align="left" alt="BIMT" height="240" width="260px" src="https://i.postimg.cc/0j6Hrk8j/Tech-Joke.jpg" />
 <img align="left" alt="UX vs UX" height="350" width="260px" src="https://i.postimg.cc/P57szmss/UX.jpg" />
-<img align="left" alt="KPIs" height="1195" width="265px" src="https://i.postimg.cc/13VnKrnf/Screenshot-2025-09-26-at-17-34-06.png" />
+<img align="left" alt="KPIs" height="1195" width="165px" src="https://i.postimg.cc/13VnKrnf/Screenshot-2025-09-26-at-17-34-06.png" />
 
 <br />
 <br />
