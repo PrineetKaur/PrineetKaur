@@ -39,10 +39,10 @@ Ping me:
 <img align="left" alt="Postman" width="60px" src="https://i.ibb.co/bj653XLm/postman-icon.webp" />
 <img align="left" alt="Swagger" width="60px" src="https://i.ibb.co/tTJKXF3Z/https-twitter-com-Swagger-Api-profile-image.jpg" />
 <img align="left" alt="Hugo" width="65px" src="https://i.ibb.co/mCCykZ7t/Hugo.png" />
-<img align="left" alt="Markdown" width="65px" src="https://i.ibb.co/WNpNqKBz/mark.png" />
+<img align="left" alt="Markdown" width="60px" src="https://i.ibb.co/WNpNqKBz/mark.png" />
 <img align="left" alt="Mkdoc" width="60px" src="https://i.ibb.co/6JbDTscm/Screenshot-2025-09-29-at-21-34-06.png" />
 <img align="left" alt="Confluence" width="65px" src="https://i.ibb.co/JwWT54BZ/confluence.png" />
-<img align="left" alt="Notion" width="60px" src="https://i.ibb.co/gb3nCD4V/Notion.webp" />
+<img align="left" alt="Notion" width="65px" src="https://i.ibb.co/gb3nCD4V/Notion.webp" />
 <img align="left" alt="Jira" width="60px" src="https://i.ibb.co/6dndvsp/jira.webp" />
 
 <br />
