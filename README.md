@@ -44,7 +44,7 @@ Ping me:
 <img align="left" alt="Confluence" width="65px" src="https://i.ibb.co/JwWT54BZ/confluence.png" />
 <img align="left" alt="Notion" width="65px" src="https://i.ibb.co/gb3nCD4V/Notion.webp" />
 <img align="left" alt="Jira" width="60px" src="https://i.ibb.co/6dndvsp/jira.webp" />
-<img align="left" alt="Grammarly" width="60px" src="https://i.ibb.co/pj92nTnW/grammarly-logo.webp" />
+<img align="left" alt="Grammarly" width="65px" src="https://i.ibb.co/pj92nTnW/grammarly-logo.webp" />
 
 <br />
 <br />
