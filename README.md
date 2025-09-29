@@ -14,7 +14,7 @@ Ping me:
 [linkedin]: https://www.linkedin.com/in/prineetkaur/
 
 ------
-### Languages and Technologies I have used 👩‍💻
+### Languages & Technologies Used 👩‍💻
 
 <img align="left" alt="python" width="60px" src="https://i.postimg.cc/bN9n26c6/logo-python.png" />
 <img align="left" alt="r" width="70px" src="https://i.postimg.cc/SRNh1NRY/R-logo-svg.png" />
