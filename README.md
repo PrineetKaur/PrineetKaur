@@ -36,15 +36,15 @@ Ping me:
 ### Tools of My Trade ⚙️
 
 <img align="left" alt="sphinxdoc" width="60px" src="https://i.ibb.co/TxCRR3H3/sphinxdoc-ca1beff5.png" />
-<img align="left" alt="Postman" width="60px" src="https://i.ibb.co/bj653XLm/postman-icon.webp" />
+<img align="left" alt="Postman" width="62px" src="https://i.ibb.co/bj653XLm/postman-icon.webp" />
 <img align="left" alt="Swagger" width="60px" src="https://i.ibb.co/tTJKXF3Z/https-twitter-com-Swagger-Api-profile-image.jpg" />
 <img align="left" alt="Hugo" width="65px" src="https://i.ibb.co/mCCykZ7t/Hugo.png" />
 <img align="left" alt="Markdown" width="60px" src="https://i.ibb.co/WNpNqKBz/mark.png" />
 <img align="left" alt="Mkdoc" width="60px" src="https://i.ibb.co/6JbDTscm/Screenshot-2025-09-29-at-21-34-06.png" />
 <img align="left" alt="Confluence" width="65px" src="https://i.ibb.co/JwWT54BZ/confluence.png" />
-<img align="left" alt="Notion" width="65px" src="https://i.ibb.co/gb3nCD4V/Notion.webp" />
+<img align="left" alt="Notion" width="67px" src="https://i.ibb.co/gb3nCD4V/Notion.webp" />
 <img align="left" alt="Jira" width="60px" src="https://i.ibb.co/6dndvsp/jira.webp" />
-<img align="left" alt="Grammarly" width="65px" src="https://i.ibb.co/pj92nTnW/grammarly-logo.webp" />
+<img align="left" alt="Grammarly" width="67px" src="https://i.ibb.co/pj92nTnW/grammarly-logo.webp" />
 
 <br />
 <br />
