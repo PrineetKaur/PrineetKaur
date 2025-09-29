@@ -40,6 +40,7 @@ Ping me:
 <img align="left" alt="Mkdoc" width="60px" src="https://i.ibb.co/6JbDTscm/Screenshot-2025-09-29-at-21-34-06.png" />
 <img align="left" alt="swagger" width="60px" src="https://i.ibb.co/tTJKXF3Z/https-twitter-com-Swagger-Api-profile-image.jpg" />
 <img align="left" alt="Postman" width="60px" src="https://i.ibb.co/bj653XLm/postman-icon.webp" />
+<img align="left" alt="Confluence" width="60px" src="https://i.ibb.co/JwWT54BZ/confluence.png" />
 
 
 <br />
@@ -55,7 +56,7 @@ Ping me:
 
 <img align="left" alt="BIMT" height="240" width="250px" src="https://i.postimg.cc/0j6Hrk8j/Tech-Joke.jpg" />
 <img align="left" alt="UX vs UX" height="350" width="250px" src="https://i.postimg.cc/P57szmss/UX.jpg" />
-<img align="left" alt="KPIs" height="1500" width="265px" src="https://i.ibb.co/mrT3z8w2/Screenshot-2025-09-26-at-17-34-06.png" alt="Screenshot-2025-09-26-at-17-34-06" border="0"></a>
+<img align="left" alt="KPIs" height="1500" width="265px" src="https://i.ibb.co/mrT3z8w2/Screenshot-2025-09-26-at-17-34-06.png" />
 
 <br />
 <br />
