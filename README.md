@@ -1,12 +1,11 @@
 ### Hello, I am Prineet Kaur, Data Product Enthusiast 👋
 
-- 👉  An agile, dynamic & customer-obsessed professional with over 9 years of experience building & scaling Tech Products
+- 👉  Data & Technology-focused product professional with over 9 years of experience building & scaling Tech Products
 - 🎓  Computer Science Engineer with an MBA in Product Management & IT Systems, along with an MSc in Big Data Analytics
-- 👩‍💻  Passionate about translating Complex Data & Tech topics into Impactful Features that solve Real User Needs..
+- 👩‍💻  Passionate about {docs} as [code] and translating highly technical topics into accurate, well-structured & unambiguous docs..
 - 👔  Led innovative tech products within IT/DevOps, Data Cloud, E-Commerce, Digital Banking & Fintech space
 - 💪  Always up for New Challenges, Curiously Learning & being a Better Version of Myself!..
 - 📣  Fun Fact -> I am a Foodie, and my Perfect day starts and ends with Tasty Food 
-- 💬  Ask me about: Modern System Design, Scalable Architecture, Self Service Apps, API Integrations, Infrastructure, Developer Experience, IDPs/Dev Portals/PaaS, Modern DevOps, GreenIT, and of course anything related to Product Management 🤓
 
 Ping me:
   [<img align = "center" height="25" width="100" src ="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
