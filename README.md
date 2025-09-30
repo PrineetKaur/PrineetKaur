@@ -14,7 +14,7 @@ Ping me:
 [linkedin]: https://www.linkedin.com/in/prineetkaur/
 
 ------
-### Languages & Technologies Used 👩‍💻
+### Languages & Technologies I'm comfortable working with 👩‍💻
 
 <img align="left" alt="python" width="60px" src="https://i.postimg.cc/bN9n26c6/logo-python.png" />
 <img align="left" alt="r" width="70px" src="https://i.postimg.cc/SRNh1NRY/R-logo-svg.png" />
@@ -32,7 +32,7 @@ Ping me:
 <br />
 <br />
 
-*Check [here](https://www.credly.com/badges/0d66c1a3-bbd7-44cc-aa58-a9d5df7e4e35/linked_in) to check my Certified Python Programer badge by Python Insititue 🤓*
+*Check [here](https://www.credly.com/badges/0d66c1a3-bbd7-44cc-aa58-a9d5df7e4e35/linked_in) to check my Certified Python Programmer badge by Python Institute* 🤓
 
 ------
 
@@ -48,6 +48,17 @@ Ping me:
 <img align="left" alt="Notion" width="67px" src="https://i.ibb.co/gb3nCD4V/Notion.webp" />
 <img align="left" alt="Jira" width="60px" src="https://i.ibb.co/6dndvsp/jira.webp" />
 <img align="left" alt="Grammarly" width="67px" src="https://i.ibb.co/pj92nTnW/grammarly-logo.webp" />
+
+<br />
+<br />
+<br />
+
+------
+
+### My AI copilots include 🚀
+
+<img align="left" alt="VScode" width="60px" src="https://i.postimg.cc/Sxg4Tp8F/VS.png" />
+
 
 <br />
 <br />
