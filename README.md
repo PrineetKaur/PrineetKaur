@@ -57,9 +57,10 @@ Ping me:
 
 ### My AI copilots include 🚀
 
+<img align="left" alt="Copilot" width="60px" src="https://i.ibb.co/yn5bfL3F/Screenshot-2025-09-30-at-19-18-42.png" />
 <img align="left" alt="VScode" width="60px" src="https://i.ibb.co/LXCnjtF6/VS.png" />
 <img align="left" alt="CursorAI" width="60px" src="https://i.ibb.co/1fQyDbQQ/Screenshot-2025-09-30-at-19-10-22.png" />
-<img align="left" alt="Copilot" width="60px" src="https://i.ibb.co/tTqk0221/Screenshot-2025-09-30-at-19-11-11.png" />
+
 
 <br />
 <br />
