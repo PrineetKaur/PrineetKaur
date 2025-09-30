@@ -1,4 +1,4 @@
-### Hello, I am Prineet Kaur, Data Product Enthusiast 👋
+### Hello, I am Prineet Kaur, Technical Product Enthusiast 👋
 
 - 👉  Data & Technology-focused product professional with over 9 years of experience building & scaling Tech Products
 - 🎓  Computer Science Engineer with an MBA in Product Management & IT Systems, along with an MSc in Big Data Analytics
