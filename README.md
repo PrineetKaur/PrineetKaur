@@ -1,11 +1,19 @@
-### Hello, I am Prineet Kaur, Technical Product Enthusiast 👋
+### Hello, I am Prineet Kaur, Technical Product Enthusiast & Developer Advocate 👋
 
-- 👉  Data & Technology-focused product professional with over 9 years of experience building & scaling Tech Products
+- 👉  Technology-focused product professional having over 9 years of experience with technical developer-focused platforms
 - 🎓  Computer Science Engineer with an MBA in Product Management & IT Systems, along with an MSc in Big Data Analytics
-- 👩‍💻  Passionate about {docs} as [code] and translating highly technical topics into accurate, well-structured & unambiguous docs..
-- 👔  Led innovative tech products within IT/DevOps, Data Cloud, E-Commerce, Digital Banking & Fintech space
+- 👩‍💻  Passionate about {docs} as [code]: Translating highly technical topics into accurate, well-structured & unambiguous 📄
+- 👔  Led innovative tech products within IT/DevOps, Data Cloud, E-Commerce, Digital Banking, and Fintech space
 - 💪  Always up for New Challenges, Curiously Learning & being a Better Version of Myself!..
-- 📣  Fun Fact -> I am a Foodie, and my Perfect day starts and ends with Tasty Food 
+- 📣  Fun Fact -> I am a Foodie, and my Perfect day starts and ends with Tasty Food
+
+<br />
+<br />
+
+<img align="left" alt="BIMT" height="240" width="250px" src="https://i.postimg.cc/0j6Hrk8j/Tech-Joke.jpg" />
+
+<br />
+<br />
 
 Ping me:
   [<img align = "center" height="25" width="100" src ="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
@@ -13,7 +21,7 @@ Ping me:
 [linkedin]: https://www.linkedin.com/in/prineetkaur/
 
 ------
-### Languages & Technologies Used 👩‍💻
+### Languages & Technologies of My Trade 👩‍💻
 
 <img align="left" alt="python" width="60px" src="https://i.postimg.cc/bN9n26c6/logo-python.png" />
 <img align="left" alt="r" width="70px" src="https://i.postimg.cc/SRNh1NRY/R-logo-svg.png" />
@@ -35,7 +43,7 @@ Ping me:
 
 ------
 
-### Tools of My Trade ⚙️
+### My Technical Writing Toolkit  ⚙️
 
 <img align="left" alt="sphinxdoc" width="60px" src="https://i.ibb.co/TxCRR3H3/sphinxdoc-ca1beff5.png" />
 <img align="left" alt="Postman" width="62px" src="https://i.ibb.co/bj653XLm/postman-icon.webp" />
@@ -54,7 +62,7 @@ Ping me:
 
 ------
 
-### My AI copilots include 🚀
+### My Coding AI Copilots 🚀
 
 <img align="left" alt="Copilot" width="60px" src="https://i.ibb.co/yn5bfL3F/Screenshot-2025-09-30-at-19-18-42.png" />
 <img align="left" alt="VScode" width="60px" src="https://i.ibb.co/LXCnjtF6/VS.png" />
@@ -71,14 +79,5 @@ Ping me:
 
 ------
 
-
-<img align="left" alt="BIMT" height="240" width="250px" src="https://i.postimg.cc/0j6Hrk8j/Tech-Joke.jpg" />
-<img align="left" alt="UX vs UX" height="350" width="250px" src="https://i.postimg.cc/P57szmss/UX.jpg" />
-<img align="left" alt="KPIs" height="1500" width="265px" src="https://i.ibb.co/mrT3z8w2/Screenshot-2025-09-26-at-17-34-06.png" />
-
-<br />
-<br />
-<br />
-<br />
 
 
