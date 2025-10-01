@@ -1,6 +1,6 @@
 ### Hello, I am Prineet Kaur, Technical Product Enthusiast & Developer Advocate 👋
 
-- 👉  Technology-focused product professional having over 9 years of experience with technical developer-focused platforms
+- 👉  Technical product professional having over 9 years of experience with developer-focused and data-heavy platforms
 - 🎓  I'm a Computer Science Engineer with an MBA in product & IT systems, along with an MSc in Big Data Analytics
 - 👩‍💻  Passionate about {docs} as [code]: Translating highly technical topics into accurate, well-structured & unambiguous 📄
 - 👔  Enjoy writing technical feature blogs, docs (APIs, SDKs, setup guides, how-tos), and love explaining complex systems 
