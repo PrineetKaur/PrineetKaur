@@ -58,7 +58,7 @@ Check [here](https://www.udemy.com/certificate/UC-0f72ae76-f67f-48d0-b765-5a51eb
 
 ------
 
-### My Coding AI Copilots 🚀
+### My AI Copilots 🚀
 
 <img align="left" alt="Copilot" width="60px" src="https://i.ibb.co/yn5bfL3F/Screenshot-2025-09-30-at-19-18-42.png" />
 <img align="left" alt="VScode" width="60px" src="https://i.ibb.co/LXCnjtF6/VS.png" />
