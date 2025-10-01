@@ -71,11 +71,12 @@ Ping me:
 
 ------
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=PrineetKaur&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/PrineetKaur/github-readme-stats)
+<img align="left" alt="BIMT" height="240" width="250px" src="https://i.postimg.cc/0j6Hrk8j/Tech-Joke.jpg" />
 
 ------
 
-<img align="left" alt="BIMT" height="240" width="250px" src="https://i.postimg.cc/0j6Hrk8j/Tech-Joke.jpg" />
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=PrineetKaur&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/PrineetKaur/github-readme-stats)
+
 
 <br />
 <br />
