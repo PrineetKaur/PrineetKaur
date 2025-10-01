@@ -44,10 +44,10 @@ Ping me:
 <img align="left" alt="Hugo" width="65px" src="https://i.ibb.co/mCCykZ7t/Hugo.png" />
 <img align="left" alt="Markdown" width="60px" src="https://i.ibb.co/WNpNqKBz/mark.png" />
 <img align="left" alt="Mkdoc" width="60px" src="https://i.ibb.co/6JbDTscm/Screenshot-2025-09-29-at-21-34-06.png" />
+<img align="left" alt="Netlify" width="65px" src="https://i.ibb.co/tTwqmZc0/netlify.webp" />
 <img align="left" alt="Confluence" width="65px" src="https://i.ibb.co/JwWT54BZ/confluence.png" />
 <img align="left" alt="Notion" width="67px" src="https://i.ibb.co/gb3nCD4V/Notion.webp" />
 <img align="left" alt="Jira" width="60px" src="https://i.ibb.co/6dndvsp/jira.webp" />
-<img align="left" alt="Grammarly" width="67px" src="https://i.ibb.co/pj92nTnW/grammarly-logo.webp" />
 
 <br />
 <br />
@@ -63,7 +63,7 @@ Ping me:
 <img align="left" alt="Copilot" width="60px" src="https://i.ibb.co/yn5bfL3F/Screenshot-2025-09-30-at-19-18-42.png" />
 <img align="left" alt="VScode" width="60px" src="https://i.ibb.co/LXCnjtF6/VS.png" />
 <img align="left" alt="CursorAI" width="60px" src="https://i.ibb.co/1fQyDbQQ/Screenshot-2025-09-30-at-19-10-22.png" />
-
+<img align="left" alt="Grammarly" width="67px" src="https://i.ibb.co/pj92nTnW/grammarly-logo.webp" />
 
 <br />
 <br />
