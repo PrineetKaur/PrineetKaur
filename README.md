@@ -32,7 +32,7 @@ Ping me:
 <br />
 <br />
 
-Check [here](https://www.credly.com/badges/0d66c1a3-bbd7-44cc-aa58-a9d5df7e4e35/linked_in) to check my *Certified Python Programmer Badge* issued by Python Institute 🎖️
+Check [here](https://www.credly.com/badges/0d66c1a3-bbd7-44cc-aa58-a9d5df7e4e35/linked_in) to check my ***Certified Python Programmer Badge*** issued by Python Institute 🎖️
 
 ------
 
@@ -54,7 +54,7 @@ Check [here](https://www.credly.com/badges/0d66c1a3-bbd7-44cc-aa58-a9d5df7e4e35/
 <br />
 <br />
 
-Check [here](https://www.udemy.com/certificate/UC-0f72ae76-f67f-48d0-b765-5a51ebd6f1e8/) to check my *Technical Writer Master Class Certificate* issued by Udemy 👩‍💻 
+Check [here](https://www.udemy.com/certificate/UC-0f72ae76-f67f-48d0-b765-5a51ebd6f1e8/) to check my ***Technical Writer Master Class Certificate*** issued by Udemy 👩‍💻 
 
 ------
 
