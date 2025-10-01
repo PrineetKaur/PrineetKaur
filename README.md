@@ -2,7 +2,7 @@
 
 - 👉  Technical product professional having over 9 years of experience with developer-focused and data-heavy platforms
 - 🎓  I'm a Computer Science Engineer with an MBA in product & IT systems, along with an MSc in Big Data Analytics
-- 👩‍💻  Passionate about {docs} as [code]: Translating highly technical topics into accurate, well-structured & unambiguous 📄
+- 👩‍💻  Passionate about helping developers succeed by turning technical complex systems into accurate, unambiguous & actionable content 📄
 - 👔  Enjoy writing technical feature blogs, docs (APIs, SDKs, setup guides, how-tos), and love explaining complex systems 
 - 🤝  I have a natural drive to engage with developers, share knowledge, and champion great developer experiences 💫
 - 😇  Love talking about tech topics (e.g., k8s, CI/CD, APIs, Dev Ex) and following new AI advancements in the dev product space
@@ -36,7 +36,7 @@ Check [here](https://www.credly.com/badges/0d66c1a3-bbd7-44cc-aa58-a9d5df7e4e35/
 
 ------
 
-### My Technical Writing Toolkit  ⚙️
+### My {docs} as [code] Toolkit  ⚙️
 
 <img align="left" alt="sphinxdoc" width="60px" src="https://i.ibb.co/TxCRR3H3/sphinxdoc-ca1beff5.png" />
 <img align="left" alt="Postman" width="62px" src="https://i.ibb.co/bj653XLm/postman-icon.webp" />
