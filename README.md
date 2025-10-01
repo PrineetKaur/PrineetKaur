@@ -7,9 +7,6 @@
 - 💪  Always up for New Challenges, Curiously Learning & being a Better Version of Myself!..
 - 📣  Fun Fact -> I am a Foodie, and my Perfect day starts and ends with Tasty Food
 
-<br />
-
-
 Ping me:
   [<img align = "center" height="25" width="100" src ="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
@@ -73,10 +70,6 @@ Ping me:
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=PrineetKaur&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/PrineetKaur/github-readme-stats)
 
 ------
-
-<br />
-<br />
-<br />
 
 <img align="left" alt="BIMT" height="240" width="250px" src="https://i.postimg.cc/0j6Hrk8j/Tech-Joke.jpg" />
 
