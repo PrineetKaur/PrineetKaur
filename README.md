@@ -3,7 +3,7 @@
 - 👉  Technology-focused product professional having over 9 years of experience with technical developer-focused platforms
 - 🎓  Computer Science Engineer with an MBA in Product Management & IT Systems, along with an MSc in Big Data Analytics
 - 👩‍💻  Passionate about {docs} as [code]: Translating highly technical topics into accurate, well-structured & unambiguous 📄
-- 👔  Led innovative tech products within IT/DevOps, Data Cloud, E-Commerce, Digital Banking, and Fintech space
+- 👔  Enjoy writing technical feature blogs, docs (APIs, SDKs, setup guides, how-tos), and love explaining complex systems 💫
 - 💪  Always up for New Challenges, Curiously Learning & being a Better Version of Myself!..
 - 📣  Fun Fact -> I am a Foodie, and my Perfect day starts and ends with Tasty Food
 
