@@ -7,15 +7,6 @@
 - 💪  Always up for New Challenges, Curiously Learning & being a Better Version of Myself!..
 - 📣  Fun Fact -> I am a Foodie, and my Perfect day starts and ends with Tasty Food
 
-<img align="left" alt="BIMT" height="240" width="250px" src="https://i.postimg.cc/0j6Hrk8j/Tech-Joke.jpg" />
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 <br />
 
 
@@ -83,5 +74,13 @@ Ping me:
 
 ------
 
+<br />
+<br />
+<br />
 
+<img align="left" alt="BIMT" height="240" width="250px" src="https://i.postimg.cc/0j6Hrk8j/Tech-Joke.jpg" />
+
+<br />
+<br />
+<br />
 
