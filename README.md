@@ -34,6 +34,8 @@ Ping me:
 
 Check [here](https://www.credly.com/badges/0d66c1a3-bbd7-44cc-aa58-a9d5df7e4e35/linked_in) to check my ***Certified Python Programmer Badge*** issued by Python Institute 🎖️
 
+And [here](https://postimg.cc/crGTmrDd) to check my ***Linode: Kubernetes Engine Certificate*** issued by KodeKloud ☁️
+
 ------
 
 ### My {docs} as [code] Toolkit  ⚙️
