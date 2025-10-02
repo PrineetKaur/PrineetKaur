@@ -1,4 +1,4 @@
-### Hello, I am Prineet Kaur, Technical Product Enthusiast & Developer Advocate 👋
+### Hello, I am Prineet Kaur, Technical Product Enthusiast & Developer 🥑
 
 - 👉  Technical product professional having over 9 years of experience with developer-focused and data-heavy platforms
 - 🎓  I'm a Computer Science Engineer with an MBA in product & IT systems, along with an MSc in Big Data Analytics
