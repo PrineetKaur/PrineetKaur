@@ -8,10 +8,11 @@
 - 😇  Love talking about tech topics (e.g., k8s, CI/CD, APIs, Dev Ex) and following new AI advancements in the dev product space
 - 📣  Fun Fact -> I am a Foodie, and my Perfect day starts and ends with Tasty Food
 
-Ping me:
-  [<img align = "center" height="25" width="100" src ="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+📫 How to reach me:
+<code> [<img src ="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/prineet.kaur/)</code>
+<code>[<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/prineetkaur/)</code> 
+<code> [<img src ="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@bhurji.pk)</code>
 
-[linkedin]: https://www.linkedin.com/in/prineetkaur/
 
 ------
 ### Languages & Technologies of My Trade 👩‍💻
