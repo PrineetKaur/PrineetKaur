@@ -1,7 +1,7 @@
 ### Hello, I am Prineet Kaur <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="20" height="20">, Technical Product Communicator and Developer 🥑
 
 - 🎓  I'm a Computer Science Engineer with an MBA in product & IT systems, along with an MSc in Big Data Analytics
-- 👩‍💻  I have 9 years of exp building dev experiences & technical documnetation (Tech specs, How to tutorials, Release notes, etc)
+- 👩‍💻  I have 9 years of exp building dev experiences & technical documentation (Tech specs, How to tutorials, Release notes, etc)
 - 😇  Love talking about tech topics (e.g., k8s, CI/CD, APIs, Dev Ex) and following new AI advancements in the dev product space
 - 📣  Fun Fact -> I am a Foodie, and my Perfect day starts and ends with Tasty Food
 
