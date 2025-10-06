@@ -1,16 +1,16 @@
 ### Hello, I am Prineet Kaur <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="20" height="20">, Technical Product Communicator and Developer 🥑
 
-- 🎓  I'm a Computer Science Engineer with an MBA in product & IT systems, along with an MSc in Big Data Analytics
-- 👩‍💻  I have worked for 9 years, building developer experiences & technical docs (tech specs, how-to tutorials, etc)
-- 😇  Love talking about tech topics (e.g., k8s, CI/CD, APIs, Dev Ex) and how AI is reshaping the dev product space
-- 📣  Fun Fact -> I am a foodie, and my perfect day starts and ends with Tasty Food
-
-📫 Reach Me:
 <code> [<img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=bhurji.pk@gmail.com)</code>
 <code>[<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/prineetkaur/)</code> 
 <code> [<img src ="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@bhurji.pk)</code>
 <code> [<img src ="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white">](https://stackoverflow.com/users/31603197/prineet-kaur-bhurji)</code>
 <code> [<img src ="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/prineet.kaur/)</code>
+
+- 🎓  I'm a Computer Science Engineer with an MBA in product & IT systems, along with an MSc in Big Data Analytics
+- 👩‍💻  I have worked for 9 years, building developer experiences & technical docs (tech specs, how-to tutorials, etc)
+- 😇  Love talking about tech topics (e.g., k8s, CI/CD, APIs, Dev Ex) and how AI is reshaping the dev product space
+- 📣  Fun Fact -> I am a foodie, and my perfect day starts and ends with Tasty Food
+
 
 
 ------
