@@ -6,9 +6,9 @@
 <code> [<img src ="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white">](https://stackoverflow.com/users/31603197/prineet-kaur-bhurji)</code>
 <code> [<img src ="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/prineet.kaur/)</code>
 
-- 🎓  I'm a Computer Science Engineer with an MBA in product & IT systems, along with an MSc in Big Data Analytics
-- 👩‍💻  I have worked for 9 years, building developer experiences & technical docs (tech specs, how-to tutorials, etc)
-- 😇  Love talking about tech topics (e.g., k8s, CI/CD, APIs, Dev Ex) and how AI is reshaping the dev product space
+- 🎓  I'm a Computer Science Engineer with an MBA in Product & IT systems, along with an MSc in Big Data Analytics
+- 👩‍💻  I have 9 years exp of building Developer Experiences & turning Complex Tech Systems into Actionable Content
+- 😇  Love talking about Tech topics (e.g., k8s, CI/CD, APIs, Dev Ex) & curious about how AI is reshaping the dev space
 - 📣  Fun Fact -> I am a foodie, and my perfect day starts and ends with Tasty Food
 
 
