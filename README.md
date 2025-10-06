@@ -5,7 +5,7 @@
 - 😇  Love talking about tech topics (e.g., k8s, CI/CD, APIs, Dev Ex) and how AI is reshaping the dev product space
 - 📣  Fun Fact -> I am a foodie, and my perfect day starts and ends with Tasty Food
 
-📫 How to reach me:
+📫 Reach Me:
 <code> [<img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=bhurji.pk@gmail.com)</code>
 <code>[<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/prineetkaur/)</code> 
 <code> [<img src ="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@bhurji.pk)</code>
@@ -30,7 +30,6 @@
 <br />
 <br />
 <br />
-<br />
 
 Check [here](https://www.credly.com/badges/0d66c1a3-bbd7-44cc-aa58-a9d5df7e4e35/linked_in) to check my ***Certified Python Programmer Badge*** issued by Python Institute 🎖️
 
@@ -40,18 +39,17 @@ And [here](https://postimg.cc/crGTmrDd) to check my ***Linode: Kubernetes Engine
 
 ### My {docs} as [code] Toolkit  ⚙️
 
-<img align="left" alt="Markdown" width="60px" src="https://i.ibb.co/WNpNqKBz/mark.png" />
-<img align="left" alt="Postman" width="62px" src="https://i.ibb.co/bj653XLm/postman-icon.webp" />
-<img align="left" alt="Swagger" width="60px" src="https://i.ibb.co/tTJKXF3Z/https-twitter-com-Swagger-Api-profile-image.jpg" />
-<img align="left" alt="Mkdoc" width="60px" src="https://i.ibb.co/6JbDTscm/Screenshot-2025-09-29-at-21-34-06.png" />
-<img align="left" alt="sphinxdoc" width="60px" src="https://i.ibb.co/TxCRR3H3/sphinxdoc-ca1beff5.png" />
-<img align="left" alt="Hugo" width="65px" src="https://i.ibb.co/mCCykZ7t/Hugo.png" />
-<img align="left" alt="Docusaurus" width="60px" src="https://i.ibb.co/zTfGdZk5/Screenshot-2025-10-01-at-16-30-51.png" />
-<img align="left" alt="Netlify" width="65px" src="https://i.ibb.co/tTwqmZc0/netlify.webp" />
-<img align="left" alt="Notion" width="67px" src="https://i.ibb.co/gb3nCD4V/Notion.webp" />
-<img align="left" alt="Jira" width="60px" src="https://i.ibb.co/6dndvsp/jira.webp" />
+<img align="left" alt="Markdown" width="50px" src="https://i.ibb.co/WNpNqKBz/mark.png" />
+<img align="left" alt="Postman" width="52px" src="https://i.ibb.co/bj653XLm/postman-icon.webp" />
+<img align="left" alt="Swagger" width="50px" src="https://i.ibb.co/tTJKXF3Z/https-twitter-com-Swagger-Api-profile-image.jpg" />
+<img align="left" alt="Mkdoc" width="50px" src="https://i.ibb.co/6JbDTscm/Screenshot-2025-09-29-at-21-34-06.png" />
+<img align="left" alt="sphinxdoc" width="50px" src="https://i.ibb.co/TxCRR3H3/sphinxdoc-ca1beff5.png" />
+<img align="left" alt="Hugo" width="55px" src="https://i.ibb.co/mCCykZ7t/Hugo.png" />
+<img align="left" alt="Docusaurus" width="50px" src="https://i.ibb.co/zTfGdZk5/Screenshot-2025-10-01-at-16-30-51.png" />
+<img align="left" alt="Netlify" width="55px" src="https://i.ibb.co/tTwqmZc0/netlify.webp" />
+<img align="left" alt="Notion" width="57px" src="https://i.ibb.co/gb3nCD4V/Notion.webp" />
+<img align="left" alt="Jira" width="50px" src="https://i.ibb.co/6dndvsp/jira.webp" />
 
-<br />
 <br />
 <br />
 <br />
@@ -62,12 +60,11 @@ Check [here](https://www.udemy.com/certificate/UC-0f72ae76-f67f-48d0-b765-5a51eb
 
 ### My AI Copilots 🚀
 
-<img align="left" alt="Copilot" width="60px" src="https://i.ibb.co/yn5bfL3F/Screenshot-2025-09-30-at-19-18-42.png" />
-<img align="left" alt="VScode" width="60px" src="https://i.ibb.co/LXCnjtF6/VS.png" />
-<img align="left" alt="CursorAI" width="60px" src="https://i.ibb.co/1fQyDbQQ/Screenshot-2025-09-30-at-19-10-22.png" />
-<img align="left" alt="Grammarly" width="67px" src="https://i.ibb.co/pj92nTnW/grammarly-logo.webp" />
+<img align="left" alt="Copilot" width="50px" src="https://i.ibb.co/yn5bfL3F/Screenshot-2025-09-30-at-19-18-42.png" />
+<img align="left" alt="VScode" width="50px" src="https://i.ibb.co/LXCnjtF6/VS.png" />
+<img align="left" alt="CursorAI" width="50px" src="https://i.ibb.co/1fQyDbQQ/Screenshot-2025-09-30-at-19-10-22.png" />
+<img align="left" alt="Grammarly" width="57px" src="https://i.ibb.co/pj92nTnW/grammarly-logo.webp" />
 
-<br />
 <br />
 <br />
 
