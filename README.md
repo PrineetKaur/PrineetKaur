@@ -65,6 +65,8 @@ Check [here](https://www.udemy.com/certificate/UC-0f72ae76-f67f-48d0-b765-5a51eb
 <img align="left" alt="CursorAI" width="50px" src="https://i.ibb.co/1fQyDbQQ/Screenshot-2025-09-30-at-19-10-22.png" />
 <img align="left" alt="Grammarly" width="57px" src="https://i.ibb.co/pj92nTnW/grammarly-logo.webp" />
 <img align="left" alt="ClaudeAI" width="54px" src="https://i.ibb.co/PZQxDJsJ/Claude.webp" />
+<img align="left" alt="ClaudeAI" width="54px" src="https://i.ibb.co/1JTrfRQL/Screenshot-2025-10-10-at-14-55-53.png" />
+
 <br />
 <br />
 
