@@ -26,6 +26,7 @@
 <img align="left" alt="docker" height="80" width="60px" src="https://i.postimg.cc/sfWcDqmX/docker.png" />
 <img align="left" alt="datadog" width="50px" src="https://i.postimg.cc/XqFSsL98/DD.png" />
 <img align="left" alt="power BI" height="60" width="50" src="https://i.postimg.cc/zGYdq2w0/1200px-Power-bi-logo-black-svg.png" />
+<img align="left" alt="VScode" width="50px" src="https://i.ibb.co/LXCnjtF6/VS.png" />
 
 <br />
 <br />
@@ -49,26 +50,13 @@ And [here](https://postimg.cc/crGTmrDd) to check my ***Linode: Kubernetes Engine
 <img align="left" alt="Netlify" width="55px" src="https://i.ibb.co/tTwqmZc0/netlify.webp" />
 <img align="left" alt="Notion" width="57px" src="https://i.ibb.co/gb3nCD4V/Notion.webp" />
 <img align="left" alt="Jira" width="50px" src="https://i.ibb.co/6dndvsp/jira.webp" />
+<img align="left" alt="Grammarly" width="57px" src="https://i.ibb.co/pj92nTnW/grammarly-logo.webp" />
 
 <br />
 <br />
 <br />
 
 Check [here](https://www.udemy.com/certificate/UC-0f72ae76-f67f-48d0-b765-5a51ebd6f1e8/) to check my ***Technical Writer Master Class Certificate*** issued by Udemy 👩‍💻 
-
-------
-
-### My AI Copilots 🚀
-
-<img align="left" alt="Copilot" width="50px" src="https://i.ibb.co/yn5bfL3F/Screenshot-2025-09-30-at-19-18-42.png" />
-<img align="left" alt="VScode" width="50px" src="https://i.ibb.co/LXCnjtF6/VS.png" />
-<img align="left" alt="CursorAI" width="50px" src="https://i.ibb.co/1fQyDbQQ/Screenshot-2025-09-30-at-19-10-22.png" />
-<img align="left" alt="Grammarly" width="57px" src="https://i.ibb.co/pj92nTnW/grammarly-logo.webp" />
-<img align="left" alt="ClaudeAI" width="54px" src="https://i.ibb.co/PZQxDJsJ/Claude.webp" />
-<img align="left" alt="ClaudeAI" width="54px" src="https://i.ibb.co/1JTrfRQL/Screenshot-2025-10-10-at-14-55-53.png" />
-
-<br />
-<br />
 
 ------
 
