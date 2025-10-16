@@ -7,7 +7,7 @@
 <code> [<img src ="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/prineet.kaur/)</code>
 
 - 🎓  I'm a Computer Science Engineer with an MBA in Product & IT systems, along with an MSc in Big Data Analytics
-- 👩‍💻  I have 9 years exp of building Developer Experiences & turning Complex Tech Systems into Actionable Content
+- 👩‍💻  I have 9 years of experience in building Dev Experiences & turning Complex Tech Systems into Actionable Content
 - 😇  Love talking about Tech topics (e.g., k8s, CI/CD, APIs, Dev Ex) & curious about how AI is reshaping the dev space
 - 📣  Fun Fact -> I am a foodie, and my perfect day starts and ends with Tasty Food
 
@@ -80,8 +80,8 @@ Check [here](https://www.udemy.com/certificate/UC-0f72ae76-f67f-48d0-b765-5a51eb
 ------
 
 
-🏆 GitHub Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=PrineetKaur)](...)
+### My GitHub Trophies 🏆 
+[![trophy](https://github-profile-trophy.vercel.app/?username=PrineetKaur&theme=onedark&title=Joined2020,Stars,Commits,Repositories,Followers,Experience&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br />
 <br />
