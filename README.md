@@ -73,8 +73,9 @@ Check [here](https://www.udemy.com/certificate/UC-0f72ae76-f67f-48d0-b765-5a51eb
 ------
 
 ### My GitHub Trophies & Stats 🏆 
-[![trophy](https://github-profile-trophy.vercel.app/?username=PrineetKaur&theme=onedark&title=Joined2020,Stars,Commits,Repositories,Followers,Experience&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img height="200" width="40%" src="https://github-readme-stats.vercel.app/api?username=PrineetKaur&count_private=true&show_icons=true&theme=radical&hide_rank=false">    <img height="180" width="30.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrineetKaur&theme=radical&hide&langs_count=10&layout=compact&show_icons=true">    
+[![trophy](https://github-profile-trophy.vercel.app/?username=PrineetKaur&theme=onedark&title=Joined2020,Stars,Commits,Repositories,Followers,Experience&row=1&column=6&margin-w=12)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img height="200" width="40%" src="https://github-readme-stats.vercel.app/api?username=PrineetKaur&count_private=true&show_icons=true&theme=radical&hide_rank=false">        <img height="180" width="30.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrineetKaur&theme=radical&hide&langs_count=10&layout=compact&show_icons=true">    
 
 ------
