@@ -1,4 +1,4 @@
-### Hello, I am Prineet Kaur <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="20" height="20">, Technical Product Communicator and Developer 🥑
+### Hello, I am Prineet Kaur <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="20" height="20">, Technical Product Enabler & Communicator (and a Forever Developer 🥑)
 
 <code> [<img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=bhurji.pk@gmail.com)</code>
 <code>[<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/prineetkaur/)</code> 
