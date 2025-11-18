@@ -1,4 +1,4 @@
-### Hello, I am Prineet Kaur <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="20" height="20">, Technical Product Enabler & Communicator (and a Forever Developer 🥑)
+### Hello, I am Prineet Kaur <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="20" height="20">, Tech Product Enabler & Communicator (and a Forever Developer 🥑)
 
 <code> [<img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=bhurji.pk@gmail.com)</code>
 <code>[<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/prineetkaur/)</code> 
@@ -61,6 +61,8 @@ Check [here](https://www.udemy.com/certificate/UC-0f72ae76-f67f-48d0-b765-5a51eb
 ------
 
 ### My GitHub Trophies & Stats 🏆 
+
+![Profile views](https://shields.io/badge/Profile%20views-2208-darkviolet)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=PrineetKaur&theme=onedark&title=Joined2020,Stars,Commits,Repositories,Followers,Experience&row=1&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
