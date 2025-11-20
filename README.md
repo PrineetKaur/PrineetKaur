@@ -64,6 +64,6 @@ Check [here](https://www.udemy.com/certificate/UC-0f72ae76-f67f-48d0-b765-5a51eb
 
 ![Profile views](https://shields.io/badge/Profile%20views-2208-darkviolet)
 
-<img height="250" width="40%" src="https://github-readme-stats.vercel.app/api?username=PrineetKaur&count_private=true&show_icons=true&theme=radical&hide_rank=false">        <img height="170" width="30.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrineetKaur&theme=radical&hide&langs_count=10&layout=compact&show_icons=true">    
+<img height="250" width="40%" src="https://github-readme-stats.vercel.app/api?username=PrineetKaur&count_private=true&show_icons=true&theme=radical&hide_rank=false">        <img height="150" width="30.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrineetKaur&theme=radical&hide&langs_count=10&layout=compact&show_icons=true">    
 
 ------
