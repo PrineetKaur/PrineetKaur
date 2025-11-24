@@ -19,12 +19,12 @@
 <img align="left" alt="python" width="50px" src="https://i.postimg.cc/bN9n26c6/logo-python.png" />
 <img align="left" alt="r" width="60px" src="https://i.postimg.cc/SRNh1NRY/R-logo-svg.png" />
 <img align="left" alt="sql" width="50px" src="https://i.postimg.cc/MG9zgR7W/SQL.jpg" />
-<img align="left" alt="heroku" width="50px" src="https://i.postimg.cc/8CrHJYGt/heroku.png" />
+/* <img align="left" alt="heroku" width="50px" src="https://i.postimg.cc/8CrHJYGt/heroku.png" /> */
 <img align="left" alt="databricks" height="60" width="50" src="https://i.postimg.cc/pXXHtfQs/databricks.png" />
 <img align="left" alt="kafka" height="60" width="50" src="https://i.postimg.cc/WtLBJZFH/kafka.png" />
 <img align="left" alt="kubernetes" height="80" width="50px" src="https://i.postimg.cc/13k4v7xg/kubernetes.png" />
 <img align="left" alt="docker" height="80" width="60px" src="https://i.postimg.cc/sfWcDqmX/docker.png" />
-<img align="left" alt="datadog" width="50px" src="https://i.postimg.cc/XqFSsL98/DD.png" />
+/* <img align="left" alt="datadog" width="50px" src="https://i.postimg.cc/XqFSsL98/DD.png" /> */
 <img align="left" alt="power BI" height="60" width="50" src="https://i.postimg.cc/zGYdq2w0/1200px-Power-bi-logo-black-svg.png" />
 <img align="left" alt="VScode" width="50px" src="https://i.ibb.co/LXCnjtF6/VS.png" />
 
@@ -48,9 +48,9 @@ And [here](https://postimg.cc/crGTmrDd) to check my ***Linode: Kubernetes Engine
 <img align="left" alt="Hugo" width="55px" src="https://i.ibb.co/mCCykZ7t/Hugo.png" />
 <img align="left" alt="Docusaurus" width="50px" src="https://i.ibb.co/zTfGdZk5/Screenshot-2025-10-01-at-16-30-51.png" />
 <img align="left" alt="Netlify" width="55px" src="https://i.ibb.co/tTwqmZc0/netlify.webp" />
-<img align="left" alt="Notion" width="57px" src="https://i.ibb.co/gb3nCD4V/Notion.webp" />
+/* <img align="left" alt="Notion" width="57px" src="https://i.ibb.co/gb3nCD4V/Notion.webp" /> */
 <img align="left" alt="Jira" width="50px" src="https://i.ibb.co/6dndvsp/jira.webp" />
-<img align="left" alt="Grammarly" width="57px" src="https://i.ibb.co/pj92nTnW/grammarly-logo.webp" />
+/* <img align="left" alt="Grammarly" width="57px" src="https://i.ibb.co/pj92nTnW/grammarly-logo.webp" /> */
 
 <br />
 <br />
