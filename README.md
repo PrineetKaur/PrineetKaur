@@ -56,7 +56,7 @@ And [here](https://postimg.cc/crGTmrDd) to check my ***Linode: Kubernetes Engine
 Check [here](https://www.udemy.com/certificate/UC-0f72ae76-f67f-48d0-b765-5a51ebd6f1e8/) to check my ***Technical Writer Master Class Certificate*** issued by Udemy 👩‍💻 
 
 ------
-### My Vibe Coding, Prototyping & Productivity Copilots 🤖
+### My Vibe Coding & Productivity Copilots 🤖
 
 <img align="left" alt="Gitcopilot" width="52px" src="https://i.postimg.cc/5t1PN9y4/gitco.png" />
 <img align="left" alt="cursor" width="51px" src="https://i.postimg.cc/CKJvQy7p/curs.png" />
