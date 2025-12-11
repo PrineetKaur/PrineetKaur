@@ -1,3 +1,4 @@
+
 ### Hello, I am Prineet Kaur <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="20" height="20">, Technical Product Builder and a Developer 🥑
 
 <code> [<img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=bhurji.pk@gmail.com)</code>
@@ -60,9 +61,9 @@ Check [here](https://www.udemy.com/certificate/UC-0f72ae76-f67f-48d0-b765-5a51eb
 ### My Vibe Coding, Prototyping & Productivity Copilots 🤖
 
 <img align="left" alt="cursor" width="55px" src="https://i.postimg.cc/CKJvQy7p/curs.png" />
+<img align="left" alt="lovable" width="55px" src="https://i.postimg.cc/MTMFMP7D/lovable.png" />
 <img align="left" alt="n8n" width="55px" src="https://i.postimg.cc/kGgb4zPq/n8n.png" />
 <img align="left" alt="supabase" width="55px" src="https://i.postimg.cc/DfQWk2sL/supabase.png" />
-<img align="left" alt="n8n" width="55px" src="https://i.postimg.cc/kGgb4zPq/n8n.png" />
 <img align="left" alt="n8n" width="55px" src="https://i.postimg.cc/kGgb4zPq/n8n.png" />
 <img align="left" alt="n8n" width="55px" src="https://i.postimg.cc/kGgb4zPq/n8n.png" />
 <img align="left" alt="notion" width="57px" src="https://i.postimg.cc/mr1VZcNH/notion.png" />
