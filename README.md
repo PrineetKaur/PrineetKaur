@@ -20,12 +20,10 @@
 <img align="left" alt="python" width="50px" src="https://i.postimg.cc/bN9n26c6/logo-python.png" />
 <img align="left" alt="r" width="60px" src="https://i.postimg.cc/SRNh1NRY/R-logo-svg.png" />
 <img align="left" alt="sql" width="50px" src="https://i.postimg.cc/MG9zgR7W/SQL.jpg" />
-<!-- <img align="left" alt="heroku" width="50px" src="https://i.postimg.cc/8CrHJYGt/heroku.png" /> -->
 <img align="left" alt="databricks" height="60" width="50" src="https://i.postimg.cc/pXXHtfQs/databricks.png" />
 <img align="left" alt="kafka" height="60" width="50" src="https://i.postimg.cc/WtLBJZFH/kafka.png" />
 <img align="left" alt="kubernetes" height="80" width="50px" src="https://i.postimg.cc/13k4v7xg/kubernetes.png" />
 <img align="left" alt="docker" height="80" width="60px" src="https://i.postimg.cc/sfWcDqmX/docker.png" />
-<!-- <img align="left" alt="datadog" width="50px" src="https://i.postimg.cc/XqFSsL98/DD.png" /> -->
 <img align="left" alt="power BI" height="60" width="50" src="https://i.postimg.cc/zGYdq2w0/1200px-Power-bi-logo-black-svg.png" />
 <img align="left" alt="VScode" width="50px" src="https://i.ibb.co/LXCnjtF6/VS.png" />
 
@@ -43,7 +41,7 @@ And [here](https://postimg.cc/crGTmrDd) to check my ***Linode: Kubernetes Engine
 
 <img align="left" alt="Markdown" width="50px" src="https://i.ibb.co/WNpNqKBz/mark.png" />
 <img align="left" alt="Postman" width="52px" src="https://i.ibb.co/bj653XLm/postman-icon.webp" />
-<img align="left" alt="Swagger" width="54px" src="https://i.ibb.co/tTJKXF3Z/https-twitter-com-Swagger-Api-profile-image.jpg" />
+<img align="left" alt="Swagger" width="54px" src="https://i.postimg.cc/cJY3vfK3/swagger.png" />
 <img align="left" alt="DITA" width="53px" src="https://i.postimg.cc/BbnqHGvP/dita.png" />
 <img align="left" alt="Mkdoc" width="51px" src="https://i.ibb.co/6JbDTscm/Screenshot-2025-09-29-at-21-34-06.png" />
 <img align="left" alt="sphinxdoc" width="52px" src="https://i.ibb.co/TxCRR3H3/sphinxdoc-ca1beff5.png" />
@@ -64,10 +62,10 @@ Check [here](https://www.udemy.com/certificate/UC-0f72ae76-f67f-48d0-b765-5a51eb
 <img align="left" alt="lovable" width="55px" src="https://i.postimg.cc/MTMFMP7D/lovable.png" />
 <img align="left" alt="n8n" width="55px" src="https://i.postimg.cc/kGgb4zPq/n8n.png" />
 <img align="left" alt="supabase" width="55px" src="https://i.postimg.cc/DfQWk2sL/supabase.png" />
+<img align="left" alt="figma" width="67px" src="https://i.postimg.cc/xdSCFhC7/figma.png" />
 <img align="left" alt="n8n" width="55px" src="https://i.postimg.cc/kGgb4zPq/n8n.png" />
-<img align="left" alt="n8n" width="55px" src="https://i.postimg.cc/kGgb4zPq/n8n.png" />
-<img align="left" alt="notion" width="57px" src="https://i.postimg.cc/mr1VZcNH/notion.png" />
-<img align="left" alt="Jira" width="50px" src="https://i.ibb.co/6dndvsp/jira.webp" />
+<img align="left" alt="notion" width="58px" src="https://i.postimg.cc/mr1VZcNH/notion.png" />
+<img align="left" alt="Jira" width="54px" src="https://i.ibb.co/6dndvsp/jira.webp" />
 <img align="left" alt="Grammarly" width="56px" src="https://i.ibb.co/pj92nTnW/grammarly-logo.webp" />
 
 <br />
