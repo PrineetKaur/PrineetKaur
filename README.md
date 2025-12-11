@@ -59,15 +59,15 @@ Check [here](https://www.udemy.com/certificate/UC-0f72ae76-f67f-48d0-b765-5a51eb
 ------
 ### My Vibe Coding, Prototyping & Productivity Copilots 🤖
 
+<img align="left" alt="cursor" width="55px" src="https://i.postimg.cc/CKJvQy7p/curs.png" />
 <img align="left" alt="n8n" width="55px" src="https://i.postimg.cc/kGgb4zPq/n8n.png" />
-<img align="left" alt="n8n" width="55px" src="https://i.postimg.cc/kGgb4zPq/n8n.png" />
-<img align="left" alt="n8n" width="55px" src="https://i.postimg.cc/kGgb4zPq/n8n.png" />
+<img align="left" alt="supabase" width="55px" src="https://i.postimg.cc/DfQWk2sL/supabase.png" />
 <img align="left" alt="n8n" width="55px" src="https://i.postimg.cc/kGgb4zPq/n8n.png" />
 <img align="left" alt="n8n" width="55px" src="https://i.postimg.cc/kGgb4zPq/n8n.png" />
 <img align="left" alt="n8n" width="55px" src="https://i.postimg.cc/kGgb4zPq/n8n.png" />
 <img align="left" alt="notion" width="57px" src="https://i.postimg.cc/mr1VZcNH/notion.png" />
 <img align="left" alt="Jira" width="50px" src="https://i.ibb.co/6dndvsp/jira.webp" />
-<img align="left" alt="Grammarly" width="57px" src="https://i.ibb.co/pj92nTnW/grammarly-logo.webp" />
+<img align="left" alt="Grammarly" width="56px" src="https://i.ibb.co/pj92nTnW/grammarly-logo.webp" />
 
 <br />
 <br />
