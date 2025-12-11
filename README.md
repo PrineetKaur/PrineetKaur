@@ -41,10 +41,10 @@ And [here](https://postimg.cc/crGTmrDd) to check my ***Linode: Kubernetes Engine
 
 <img align="left" alt="Markdown" width="50px" src="https://i.ibb.co/WNpNqKBz/mark.png" />
 <img align="left" alt="Postman" width="52px" src="https://i.ibb.co/bj653XLm/postman-icon.webp" />
-<img align="left" alt="Swagger" width="54px" src="https://i.postimg.cc/cJY3vfK3/swagger.png" />
-<img align="left" alt="DITA" width="53px" src="https://i.postimg.cc/BbnqHGvP/dita.png" />
+<img align="left" alt="Swagger" width="51px" src="https://i.postimg.cc/cJY3vfK3/swagger.png" />
+<img align="left" alt="DITA" width="51px" src="https://i.postimg.cc/BbnqHGvP/dita.png" />
 <img align="left" alt="Mkdoc" width="51px" src="https://i.ibb.co/6JbDTscm/Screenshot-2025-09-29-at-21-34-06.png" />
-<img align="left" alt="sphinxdoc" width="52px" src="https://i.ibb.co/TxCRR3H3/sphinxdoc-ca1beff5.png" />
+<img align="left" alt="sphinxdoc" width="51px" src="https://i.ibb.co/TxCRR3H3/sphinxdoc-ca1beff5.png" />
 <img align="left" alt="Hugo" width="55px" src="https://i.ibb.co/mCCykZ7t/Hugo.png" />
 <img align="left" alt="Docusaurus" width="50px" src="https://i.ibb.co/zTfGdZk5/Screenshot-2025-10-01-at-16-30-51.png" />
 <img align="left" alt="Netlify" width="55px" src="https://i.ibb.co/tTwqmZc0/netlify.webp" />
@@ -58,15 +58,15 @@ Check [here](https://www.udemy.com/certificate/UC-0f72ae76-f67f-48d0-b765-5a51eb
 ------
 ### My Vibe Coding, Prototyping & Productivity Copilots 🤖
 
-<img align="left" alt="cursor" width="55px" src="https://i.postimg.cc/CKJvQy7p/curs.png" />
-<img align="left" alt="lovable" width="55px" src="https://i.postimg.cc/MTMFMP7D/lovable.png" />
-<img align="left" alt="n8n" width="55px" src="https://i.postimg.cc/kGgb4zPq/n8n.png" />
-<img align="left" alt="supabase" width="55px" src="https://i.postimg.cc/DfQWk2sL/supabase.png" />
-<img align="left" alt="figma" width="67px" src="https://i.postimg.cc/xdSCFhC7/figma.png" />
-<img align="left" alt="n8n" width="55px" src="https://i.postimg.cc/kGgb4zPq/n8n.png" />
-<img align="left" alt="notion" width="58px" src="https://i.postimg.cc/mr1VZcNH/notion.png" />
-<img align="left" alt="Jira" width="54px" src="https://i.ibb.co/6dndvsp/jira.webp" />
-<img align="left" alt="Grammarly" width="56px" src="https://i.ibb.co/pj92nTnW/grammarly-logo.webp" />
+<img align="left" alt="Gitcopilot" width="52px" src="https://i.postimg.cc/5t1PN9y4/gitco.png" />
+<img align="left" alt="cursor" width="51px" src="https://i.postimg.cc/CKJvQy7p/curs.png" />
+<img align="left" alt="lovable" width="51px" src="https://i.postimg.cc/MTMFMP7D/lovable.png" />
+<img align="left" alt="replit" width="51px" src="https://i.postimg.cc/zvLH1W1V/replit.png" />
+<img align="left" alt="figma" width="62px" src="https://i.postimg.cc/xdSCFhC7/figma.png" />
+<img align="left" alt="n8n" width="51px" src="https://i.postimg.cc/kGgb4zPq/n8n.png" />
+<img align="left" alt="supabase" width="51px" src="https://i.postimg.cc/DfQWk2sL/supabase.png" />
+<img align="left" alt="notion" width="55px" src="https://i.postimg.cc/mr1VZcNH/notion.png" />
+<img align="left" alt="Jira" width="52px" src="https://i.ibb.co/6dndvsp/jira.webp" />
 
 <br />
 <br />
