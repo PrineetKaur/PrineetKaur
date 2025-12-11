@@ -48,9 +48,7 @@ And [here](https://postimg.cc/crGTmrDd) to check my ***Linode: Kubernetes Engine
 <img align="left" alt="Hugo" width="55px" src="https://i.ibb.co/mCCykZ7t/Hugo.png" />
 <img align="left" alt="Docusaurus" width="50px" src="https://i.ibb.co/zTfGdZk5/Screenshot-2025-10-01-at-16-30-51.png" />
 <img align="left" alt="Netlify" width="55px" src="https://i.ibb.co/tTwqmZc0/netlify.webp" />
-<!-- <img align="left" alt="Notion" width="57px" src="https://i.ibb.co/gb3nCD4V/Notion.webp" /> -->
 <img align="left" alt="Jira" width="50px" src="https://i.ibb.co/6dndvsp/jira.webp" />
-<!-- <img align="left" alt="Grammarly" width="57px" src="https://i.ibb.co/pj92nTnW/grammarly-logo.webp" /> -->
 
 <br />
 <br />
@@ -59,10 +57,22 @@ And [here](https://postimg.cc/crGTmrDd) to check my ***Linode: Kubernetes Engine
 Check [here](https://www.udemy.com/certificate/UC-0f72ae76-f67f-48d0-b765-5a51ebd6f1e8/) to check my ***Technical Writer Master Class Certificate*** issued by Udemy 👩‍💻 
 
 ------
+### My Vibe Coding, Prototyping & Productivity Copilots 🤖
 
+<img align="left" alt="n8n" width="55px" src="https://i.postimg.cc/kGgb4zPq/n8n.png" />
+<img align="left" alt="Grammarly" width="57px" src="https://i.ibb.co/pj92nTnW/grammarly-logo.webp" />
+
+<br />
+<br />
+<br />
+
+Check [here](https://www.udemy.com/certificate/UC-d60554ed-7d7f-486d-883f-a819724fc82b/) to check my ***n8n (No-code AI Agents & Automation) Certificate*** issued by Udemy 👩‍💻 
+
+------
+
+<!-- 
 ### My GitHub Trophies & Stats 🏆 
 
 <img height="280" width="45%" src="https://github-readme-stats.vercel.app/api?username=PrineetKaur&count_private=true&show_icons=true&theme=radical&hide_rank=false"/>      <img height="140" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrineetKaur&theme=radical&hide&langs_count=10&layout=compact&show_icons=true"/> 
 
-
-------
+-->
