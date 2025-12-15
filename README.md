@@ -11,6 +11,7 @@
 - 👩‍💻  I have 9 years of experience in building Dev Experiences & turning Complex Tech Systems into Actionable Content
 - 😇  Love talking about Tech topics (e.g., k8s, CI/CD, APIs, DevEx) & curious about how AI is reshaping the Dev Space
 - 📣  Fun Fact -> I am a foodie, and my Perfect day Starts and Ends with Tasty Food 😇
+- 🎯  Currently learning [DITA](https://www.oxygenxml.com/dita/styleguide/Authoring_Concepts/c_Introduction_to_DITA.html) and experiementing with [n8n](https://docs.n8n.io/)
 
 
 
@@ -53,7 +54,7 @@ And [here](https://postimg.cc/crGTmrDd) to check my ***Linode: Kubernetes Engine
 <br />
 <br />
 
-Check [here](https://www.udemy.com/certificate/UC-0f72ae76-f67f-48d0-b765-5a51ebd6f1e8/) to check my ***Technical Writer Master Class Certificate*** issued by Udemy 👩‍💻 
+Check [here](https://www.udemy.com/certificate/UC-0f72ae76-f67f-48d0-b765-5a51ebd6f1e8/) to check my ***Technical Writer Master Class Certificate*** 👩‍💻 
 
 ------
 ### My Vibe Coding & Productivity Copilots 🤖
@@ -72,7 +73,7 @@ Check [here](https://www.udemy.com/certificate/UC-0f72ae76-f67f-48d0-b765-5a51eb
 <br />
 <br />
 
-Check [here](https://www.udemy.com/certificate/UC-d60554ed-7d7f-486d-883f-a819724fc82b/) to check my ***n8n (No-code AI Agents & Automation) Certificate*** issued by Udemy 👩‍💻 
+Check [here](https://www.udemy.com/certificate/UC-d60554ed-7d7f-486d-883f-a819724fc82b/) to check my ***n8n (No-code AI Agents & Automation) Certificate*** 🤖 
 
 ------
 
