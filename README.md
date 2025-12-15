@@ -11,7 +11,7 @@
 - 👩‍💻  I have 9 years of experience in building Dev Experiences & turning Complex Tech Systems into Actionable Content
 - 😇  Love talking about Tech topics (e.g., k8s, CI/CD, APIs, DevEx) & curious about how AI is reshaping the Dev Space
 - 📣  Fun Fact -> I am a foodie, and my Perfect day Starts and Ends with Tasty Food 😇
-- 🎯  Currently learning [DITA](https://www.oxygenxml.com/dita/styleguide/Authoring_Concepts/c_Introduction_to_DITA.html) and experiementing with [n8n](https://docs.n8n.io/)
+- 🎯  Currently learning [DITA](https://www.oxygenxml.com/dita/styleguide/Authoring_Concepts/c_Introduction_to_DITA.html) and experimenting with [n8n](https://docs.n8n.io/)
 
 
 
