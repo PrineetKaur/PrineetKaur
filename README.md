@@ -79,6 +79,6 @@ Check [here](https://www.udemy.com/certificate/UC-d60554ed-7d7f-486d-883f-a81972
 <!-- -->
 ### My GitHub Trophies & Stats 🏆 
 
-<img height="280" width="45%" src="https://github-readme-stats.vercel.app/api?username=PrineetKaur&count_private=true&show_icons=true&theme=radical&hide_rank=false"/>      <img height="140" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrineetKaur&theme=radical&hide&langs_count=10&layout=compact&show_icons=true"/> 
+<img height="280" width="45%" src="https://github-readme-stats.vercel.app/api?username=PrineetKaur&count_private=true&show_icons=true&theme=radical&hide_rank=false"/>      <img height="160" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrineetKaur&theme=radical&hide&langs_count=10&layout=compact&show_icons=true"/> 
 
 
