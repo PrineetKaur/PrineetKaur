@@ -37,25 +37,6 @@ Check [here](https://www.credly.com/badges/0d66c1a3-bbd7-44cc-aa58-a9d5df7e4e35/
 And [here](https://postimg.cc/crGTmrDd) to check my ***Linode: Kubernetes Engine Certificate*** issued by KodeKloud ☁️
 
 ------
-### My Vibe Coding & Productivity Copilots 🤖
-
-<img align="left" alt="Gitcopilot" width="52px" src="https://i.postimg.cc/5t1PN9y4/gitco.png" />
-<img align="left" alt="cursor" width="51px" src="https://i.postimg.cc/CKJvQy7p/curs.png" />
-<img align="left" alt="lovable" width="51px" src="https://i.postimg.cc/MTMFMP7D/lovable.png" />
-<img align="left" alt="replit" width="51px" src="https://i.postimg.cc/zvLH1W1V/replit.png" />
-<img align="left" alt="figma" width="62px" src="https://i.postimg.cc/xdSCFhC7/figma.png" />
-<img align="left" alt="n8n" width="51px" src="https://i.postimg.cc/kGgb4zPq/n8n.png" />
-<img align="left" alt="supabase" width="51px" src="https://i.postimg.cc/DfQWk2sL/supabase.png" />
-<img align="left" alt="notion" width="55px" src="https://i.postimg.cc/mr1VZcNH/notion.png" />
-<img align="left" alt="Jira" width="52px" src="https://i.ibb.co/6dndvsp/jira.webp" />
-
-<br />
-<br />
-<br />
-
-Check [here](https://www.udemy.com/certificate/UC-d60554ed-7d7f-486d-883f-a819724fc82b/) to check my ***n8n (No-code AI Agents & Automation) Certificate*** 🤖 
-
-------
 
 ### My {docs} as [code] Toolkit  ⚙️
 
@@ -77,9 +58,30 @@ Check [here](https://www.udemy.com/certificate/UC-0f72ae76-f67f-48d0-b765-5a51eb
 
 ------
 
-<!-- -->
+### My Vibe Coding & Productivity Copilots 🤖
+
+<img align="left" alt="Gitcopilot" width="52px" src="https://i.postimg.cc/5t1PN9y4/gitco.png" />
+<img align="left" alt="cursor" width="51px" src="https://i.postimg.cc/CKJvQy7p/curs.png" />
+<img align="left" alt="lovable" width="51px" src="https://i.postimg.cc/MTMFMP7D/lovable.png" />
+<img align="left" alt="replit" width="51px" src="https://i.postimg.cc/zvLH1W1V/replit.png" />
+<img align="left" alt="figma" width="62px" src="https://i.postimg.cc/xdSCFhC7/figma.png" />
+<img align="left" alt="n8n" width="51px" src="https://i.postimg.cc/kGgb4zPq/n8n.png" />
+<img align="left" alt="supabase" width="51px" src="https://i.postimg.cc/DfQWk2sL/supabase.png" />
+<img align="left" alt="notion" width="55px" src="https://i.postimg.cc/mr1VZcNH/notion.png" />
+<img align="left" alt="Jira" width="52px" src="https://i.ibb.co/6dndvsp/jira.webp" />
+
+<br />
+<br />
+<br />
+
+Check [here](https://www.udemy.com/certificate/UC-d60554ed-7d7f-486d-883f-a819724fc82b/) to check my ***n8n (No-code AI Agents & Automation) Certificate*** 🤖 
+
+------
+
+
+<!-- 
 ### My GitHub Trophies & Stats 🏆 
 
 <img height="280" width="45%" src="https://github-readme-stats.vercel.app/api?username=PrineetKaur&count_private=true&show_icons=true&theme=radical&hide_rank=false"/>      <img height="148" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrineetKaur&theme=radical&hide&langs_count=10&layout=compact&show_icons=true"/> 
 
-
+-->
