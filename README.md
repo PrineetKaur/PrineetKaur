@@ -7,7 +7,7 @@
 <code> [<img src="https://img.shields.io/badge/substack-FF6719.svg?&style=for-the-badge&logo=substack&logoColor=white">](https://substack.com/@prineetkaur)</code>
 <code> [<img src ="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/prineet.kaur/)</code>
 
-- 🎓  I'm a Computer Science Engineer with an MBA in Product & IT systems, along with an MSc in Data Science
+- 🎓  I'm a Computer Science Engineer with an MBA in Product, IT & Strategy, along with an MSc in Data Science
 - 👩‍💻  I have 9 years of experience in building Dev Experiences & turning Complex Tech Systems into Actionable Content
 - 😇  Love talking about Tech topics (e.g., k8s, CI/CD, APIs, DevEx) & curious about how AI is reshaping the Dev Space
 - 📣  Fun Fact -> I am a foodie, and my Perfect day Starts and Ends with Tasty Food 😇
