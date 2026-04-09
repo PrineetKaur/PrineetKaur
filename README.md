@@ -39,15 +39,16 @@ And [here](https://postimg.cc/crGTmrDd) to check my ***Linode: Kubernetes Engine
 ------
 ### My Vibe Coding & Productivity Copilots 🤖
 
-<img align="left" alt="Gitcopilot" width="52px" src="https://i.postimg.cc/5t1PN9y4/gitco.png" />
+<img align="left" alt="gitcopilot" width="52px" src="https://i.postimg.cc/5t1PN9y4/gitco.png" />
 <img align="left" alt="cursor" width="51px" src="https://i.postimg.cc/CKJvQy7p/curs.png" />
-<img align="left" alt="lovable" width="51px" src="https://i.postimg.cc/MTMFMP7D/lovable.png" />
 <img align="left" alt="replit" width="51px" src="https://i.postimg.cc/zvLH1W1V/replit.png" />
-<img align="left" alt="figma" width="62px" src="https://i.postimg.cc/xdSCFhC7/figma.png" />
 <img align="left" alt="n8n" width="51px" src="https://i.postimg.cc/kGgb4zPq/n8n.png" />
 <img align="left" alt="supabase" width="51px" src="https://i.postimg.cc/DfQWk2sL/supabase.png" />
+<img align="left" alt="claud" width="51px" src="https://i.postimg.cc/cLc1Xwh5/claude.jpg" />
+<img align="left" alt="gamma" width="52px" src="https://i.postimg.cc/MTfm76xK/Screenshot-2026-04-09-at-11-47-12.png" />
+<img align="left" alt="Jasper" width="55px" src="https://i.postimg.cc/4dPF04qQ/Screenshot-2026-04-09-at-11-44-52.png" />
 <img align="left" alt="notion" width="55px" src="https://i.postimg.cc/mr1VZcNH/notion.png" />
-<img align="left" alt="Jira" width="52px" src="https://i.ibb.co/6dndvsp/jira.webp" />
+
 
 <br />
 <br />
