@@ -7,11 +7,11 @@
 <code> [<img src="https://img.shields.io/badge/substack-FF6719.svg?&style=for-the-badge&logo=substack&logoColor=white">](https://substack.com/@prineetkaur)</code>
 <code> [<img src ="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/prineet.kaur/)</code>
 
-- 🎓  I'm a Computer Science Engineer with an MBA in Product, IT & Strategy, along with an MSc in Data Science
-- 👩‍💻  I have 9 years of experience in building Dev Experiences & turning Complex Tech Systems into Actionable Content
-- 😇  Love talking about Tech topics (e.g., k8s, CI/CD, APIs, DevEx) & curious about how AI is reshaping the Dev Space
-- 📣  Fun Fact -> I am a foodie, and my Perfect day Starts and Ends with Tasty Food 😇
-- 🎯  Currently learning [DITA](https://www.oxygenxml.com/dita/styleguide/Authoring_Concepts/c_Introduction_to_DITA.html) and experimenting with [n8n](https://docs.n8n.io/)
+- 🎓  I'm a Computer Science Engineer with an MSc in Data Science and an MBA in Product, IT & Strategy.
+- 👩‍💻  I have 9 years of experience working at the intersection of Product, Engineering, and Data Technology.
+- 😇  Love writing on topics like AI Technology, Context Architecture, System Design & Tech Documentation.
+- 🎯  Currently I'm learning [DITA](https://www.oxygenxml.com/dita/styleguide/Authoring_Concepts/c_Introduction_to_DITA.html) and building [AI-First Knowledge Architecture for Agentic Systems](https://github.com/PrineetKaur/AI-First-Knowledge-Architecture-for-Agentic-Systems)
+- 📣  Fun Fact:  I am a foodie, and my Perfect day Starts and Ends with Tasty Food 😇
 
 
 
