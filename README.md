@@ -9,8 +9,8 @@
 
 - 🎓  I'm a Computer Science Engineer with an MSc in Data Science and an MBA in Product, IT & Strategy.
 - 👩‍💻  I have 9 years of experience working at the intersection of Product, Engineering, and Data Technology.
-- 😇  Love writing on topics like AI Technology, Context Architecture, System Design & Tech Documentation.
-- 🎯  Currently I'm learning [DITA](https://www.oxygenxml.com/dita/styleguide/Authoring_Concepts/c_Introduction_to_DITA.html) and building [AI-First Knowledge Architecture for Agentic Systems](https://github.com/PrineetKaur/AI-First-Knowledge-Architecture-for-Agentic-Systems)
+- 🎯  Focused on Building Scalable and AI-enabled Content & Knowledge Systems for Modern Product Teams.
+- ✍️  Love writing on topics like AI Technology, Context Architecture, System Design & Tech Documentation.
 - 📣  Fun Fact:  I am a foodie, and my Perfect day Starts and Ends with Tasty Food 😇
 
 
