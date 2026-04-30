@@ -1,5 +1,5 @@
 
-### Hello, I am Prineet Kaur <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="20" height="20">, Technical Product Enthusiast 👩‍💻
+### Hello, I am Prineet Kaur <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="20" height="20">, Technical Product Enthusiast, Content Designer and AI Systems Builder 👩‍💻
 
 <code> [<img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=bhurji.pk@gmail.com)</code>
 <code>[<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/prineetkaur/)</code> 
@@ -10,7 +10,7 @@
 - 🎓  I'm a Computer Science Engineer with an MSc in Data Science and an MBA in Product, IT & Strategy.
 - 👩‍💻  I have 9 years of experience working at the intersection of Product, Engineering, and Data Technology.
 - 🎯  Focused on Building Scalable and AI-enabled Content & Knowledge Systems for Modern Product Teams.
-- ✍️  Love writing on topics like AI Technology, Context Architecture, System Design & Tech Documentation.
+- ✍️  Love writing on latest Tech Topics with a focus on making Emerging Technologies more Accessible and Practical.
 - 📣  Fun Fact:  I am a foodie, and my Perfect day Starts and Ends with Tasty Food 😇
 
 
