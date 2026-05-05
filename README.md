@@ -9,7 +9,7 @@
 
 - 🎓  I'm a Computer Science Engineer with an MSc in Data Science and an MBA in Product, IT & Strategy.
 - 👩‍💻  I have 9 years of experience working at the intersection of Product, Engineering, and Data Technology.
-- 🎯  Focused on Building Scalable and AI-enabled Content & Knowledge Systems for Modern Product Teams.
+- 🎯  Focused on Building Scalable and AI-enabled Content & Knowledge Systems for Modern Teams.
 - ✍️  Love writing on latest Tech Topics with a focus on making Emerging Technologies more Accessible and Practical.
 - 📣  Fun Fact:  I am a foodie, and my Perfect day Starts and Ends with Tasty Food 😇
 
