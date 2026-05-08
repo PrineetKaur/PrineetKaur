@@ -1,5 +1,5 @@
 
-### Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="20" height="20">, I am Prineet Kaur, a Content & Knowledge Systems Practitioner 👩‍💻 👩‍💻
+### Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="20" height="20">, I am Prineet Kaur, a Content Desginer & Knowledge Systems Practitioner 👩‍💻
 
 <code> [<img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=bhurji.pk@gmail.com)</code>
 <code>[<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/prineetkaur/)</code> 
@@ -35,5 +35,3 @@
 * [Technical Writer HQ](https://www.udemy.com/certificate/UC-0f72ae76-f67f-48d0-b765-5a51ebd6f1e8/) — (Technical Writing Live Masterclass)
 * [KodeKloud](https://postimg.cc/crGTmrDd) — (Kubernetes Engine Certification)
 * [Python Institute](https://www.credly.com/badges/0d66c1a3-bbd7-44cc-aa58-a9d5df7e4e35/linked_in) — (Certified Python Programmer)
-
-------
