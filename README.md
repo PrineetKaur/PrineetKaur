@@ -37,12 +37,3 @@
 * [Python Institute](https://www.credly.com/badges/0d66c1a3-bbd7-44cc-aa58-a9d5df7e4e35/linked_in) — (Certified Python Programmer)
 
 ------
-
-### Activity & Contributions
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=PrineetKaur&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
-  
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrineetKaur&layout=compact&langs_count=6&theme=transparent&hide_border=true" />
-</p>
-
