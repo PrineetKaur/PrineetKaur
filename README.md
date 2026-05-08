@@ -1,5 +1,5 @@
 
-### Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="20" height="20">, I am Prineet Kaur, a Content Designer, Knowledge Architect & AI Systems Builder 👩‍💻
+### Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="20" height="20">, I am Prineet Kaur, a Content & Knowledge Systems Practitioner 👩‍💻 👩‍💻
 
 <code> [<img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=bhurji.pk@gmail.com)</code>
 <code>[<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/prineetkaur/)</code> 
@@ -9,26 +9,24 @@
 
 - 🎓  I'm a Computer Science Engineer with an MSc in Data Science and an MBA in Product, IT & Strategy.
 - 👩‍💻  I have 9 years of experience working across Content Design, Product Experiences, and Technical Systems.
-- 🎯  Focused on Building Scalable and AI-enabled Content & Knowledge Systems for Modern Teams.
-- ✍️  Love writing on latest Tech Topics with a focus on making Emerging Technologies more Accessible and Practical.
+- 🎯  Focused on Designing Scalable Content Systems that improve clarity, adoption & self-serve experiences.
+- ✍️  I share practical insights on leveraging AI & Automation to build user-centric Content Systems.
 - 📣  Fun Fact:  I am a foodie, and my Perfect day Starts and Ends with Tasty Food 😇
-
-
 
 ------
 ### Content & Knowledge Systems
 
-`Markdown · MkDocs · Sphinx · Hugo · Docusaurus · GitBook · OpenAPI · Notion`
+`Markdown · MkDocs · Sphinx · Hugo · Docusaurus · GitBook · OpenAPI · Confluence · Notion`
 
 ------
 ### AI, Data & Structured Workflows
 
-`Python · R · SQL · n8n · OpenAI · LangChain`
+`Python · SQL · n8n · OpenAI · LangChain`
 
 ------
 ### Developer Experience & Infrastructure
 
-`Docker · Kubernetes · VS Code · GitHub Actions · Kafka`
+`Docker · Kubernetes · GitHub Actions · VS Code`
 
 ------
 ### Selected Learning & Certifications
@@ -40,9 +38,9 @@
 
 ------
 
-### My GitHub Trophies & Stats 🏆 
+### Activity & Contributions
 
-<img height="280" width="45%" src="https://github-readme-stats.vercel.app/api?username=PrineetKaur&count_private=true&show_icons=true&theme=radical&hide_rank=false"/>      
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrineetKaur&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>    
 
-<img height="148" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrineetKaur&theme=radical&hide&langs_count=10&layout=compact&show_icons=true"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrineetKaur&layout=compact&langs_count=8&theme=tokyonight"/>
 
