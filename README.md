@@ -7,11 +7,11 @@
 <code> [<img src="https://img.shields.io/badge/substack-FF6719.svg?&style=for-the-badge&logo=substack&logoColor=white">](https://substack.com/@prineetkaur)</code>
 <code> [<img src ="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/prineet.kaur/)</code>
 
-- 🎓  I'm a Computer Science Engineer with an MSc in Data Science and an MBA in Product, IT & Strategy.
-- 👩‍💻  I have 9 years of experience working across Content Design, Developer Experience, and Technical Systems.
-- 🎯  Focused on Designing Scalable Content Systems that improve clarity, adoption & self-serve experiences.
-- ✍️  I share practical insights on leveraging AI & Automation to build user-centric Content Systems.
-- 📣  Fun Fact:  I am a foodie, and my Perfect day Starts and Ends with Tasty Food 😇
+- 🎓  I'm a Computer Science Engineer with an MSc in Data Science and an MBA in Content Management & Strategy.
+- 👩‍💻  I have 9 years of experience working across content design, devEx, and technical knowledge systems.
+- 🎯  Focused on Designing Scalable Content Systems that improve clarity, consistency, and self-serve adoption.
+- ✍️  I write about the latest technological advancements and make technical topics easier to understand
+- 📣  Fun Fact:  I am a foodie, and my Perfect day starts and ends with Tasty Food 😇
 
 ------
 ### Content & Knowledge Systems
