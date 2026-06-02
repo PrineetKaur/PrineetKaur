@@ -8,7 +8,7 @@
 <code> [<img src ="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/prineet.kaur/)</code>
 
 - 🎓  I'm a Computer Science Engineer with an MSc in Data Science and an MBA in Product, IT & Strategy.
-- 👩‍💻  I have 9 years of experience working across Content Design, Product Experiences, and Technical Systems.
+- 👩‍💻  I have 9 years of experience working across Content Design, Developer Experience, and Technical Systems.
 - 🎯  Focused on Designing Scalable Content Systems that improve clarity, adoption & self-serve experiences.
 - ✍️  I share practical insights on leveraging AI & Automation to build user-centric Content Systems.
 - 📣  Fun Fact:  I am a foodie, and my Perfect day Starts and Ends with Tasty Food 😇
