@@ -5,7 +5,7 @@
 <code>[<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/prineetkaur/)</code> 
 <code> [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@bhurji.pk)</code>
 <code> [<img src="https://img.shields.io/badge/substack-FF6719.svg?&style=for-the-badge&logo=substack&logoColor=white">](https://substack.com/@prineetkaur)</code>
-<code> [<img src ="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/prineet.kaur/)</code>
+</code>
 
 - 🎓  I'm a Computer Science Engineer with an MSc in Data Science and an MBA in Content Management & Strategy.
 - 👩‍💻  I have 9 years of experience working across content design, devEx, and technical knowledge systems.
@@ -35,4 +35,4 @@
 * [Technical Writer HQ](https://www.udemy.com/certificate/UC-0f72ae76-f67f-48d0-b765-5a51ebd6f1e8/) — (Technical Writing Live Masterclass)
 * [KodeKloud](https://postimg.cc/crGTmrDd) — (Kubernetes Engine Certification)
 * [Python Institute](https://www.credly.com/badges/0d66c1a3-bbd7-44cc-aa58-a9d5df7e4e35/linked_in) — (Certified Python Programmer)
-* [Tableau](https://www.credly.com/badges/506ecc1f-9bce-4f9d-8a87-ff0feb9bc8bd?source=linked_in_profile) - (Certified Tableau Analyst)
+* [Tableau](https://www.credly.com/badges/506ecc1f-9bce-4f9d-8a87-ff0feb9bc8bd?source=linked_in_profile) — (Certified Tableau Analyst)
