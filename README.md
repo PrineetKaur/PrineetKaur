@@ -9,7 +9,7 @@
 
 - 🎓  I'm a Computer Science Engineer with an MSc in Data Science and an MBA in Content Management & Strategy.
 - 👩‍💻  I have 9 years of experience working across content design, devEx, and technical knowledge systems.
-- 🎯  Focused on Designing Scalable Content Systems that improve clarity, consistency, and self-serve adoption.
+- 🎯  Focused on designing scalable content systems that improve clarity, consistency, and self-serve adoption.
 - ✍️  I write about the latest technological advancements and make technical topics easier to understand
 - 📣  Fun Fact:  I am a foodie, and my Perfect day starts and ends with Tasty Food 😇
 
