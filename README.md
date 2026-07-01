@@ -33,6 +33,5 @@
 
 * [n8n](https://www.udemy.com/certificate/UC-d60554ed-7d7f-486d-883f-a819724fc82b/) — (AI Agents & Workflow Automation)
 * [Technical Writer HQ](https://www.udemy.com/certificate/UC-0f72ae76-f67f-48d0-b765-5a51ebd6f1e8/) — (Technical Writing Live Masterclass)
-* [KodeKloud](https://postimg.cc/crGTmrDd) — (Kubernetes Engine Certification)
 * [Python Institute](https://www.credly.com/badges/0d66c1a3-bbd7-44cc-aa58-a9d5df7e4e35/linked_in) — (Certified Python Programmer)
 * [Tableau](https://www.credly.com/badges/506ecc1f-9bce-4f9d-8a87-ff0feb9bc8bd?source=linked_in_profile) — (Certified Tableau Analyst)
