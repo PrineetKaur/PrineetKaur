@@ -24,9 +24,9 @@
 `Python · SQL · n8n · OpenAI · LangChain`
 
 ------
-### Developer Experience & Infrastructure
+### Developer Enablement & Docs Infrastructure
 
-`Docker · Kubernetes · GitHub Actions · VS Code`
+`GitHub Actions · GitHub Pages · VS Code · Copilot`
 
 ------
 ### Selected Learning & Certifications
