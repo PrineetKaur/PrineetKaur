@@ -16,7 +16,7 @@
 ------
 ### Content & Knowledge Systems
 
-`Markdown · MkDocs · Sphinx · Docusaurus · GitBook · OpenAPI · Confluence · Notion`
+`Markdown · MkDocs · GitBook · OpenAPI · Confluence · Notion`
 
 ------
 ### AI, Data & Structured Workflows
