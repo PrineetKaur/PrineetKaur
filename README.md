@@ -9,7 +9,7 @@
 
 - 🎓  I'm a Computer Science Engineer with an MSc in Data Science and an MBA in Content Management & Strategy.
 - 👩‍💻  I have a decade of experience designing and building content, knowledge, & tech docs and the infra around them.
-- 🎯  Focused on engineering content & knowledge systems that can be trusted for both humans and AI.
+- 🎯  Focused on technical product content & knowledge systems that can be trusted for both humans and AI.
 - ✍️  I write about the latest technological advancements and making technical topics easier to understand
 - 📣  Fun Fact:  I am a foodie, and my Perfect day starts and ends with Tasty Food 😇
 
