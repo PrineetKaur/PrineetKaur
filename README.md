@@ -8,7 +8,7 @@
 </code>
 
 - 🎓  I'm a Computer Science Engineer with an MSc in Data Science and an MBA in Content Management & Strategy.
-- 👩‍💻  I have a decade of experience designing knowledge & docs systems and building the infra to make them operational.
+- 👩‍💻  I have a decade of experience designing content, knowledge & docs systems and building the infra to make them operational.
 - 🎯  Focused on technical product content & knowledge systems that can be trusted for both humans and AI.
 - ✍️  I write about the latest technological advancements and make technical topics easier to understand
 - 📣  Fun Fact:  I am a foodie, and my Perfect day starts and ends with Tasty Food 😇
