@@ -1,7 +1,7 @@
 ### Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20" height="20">, I am Prineet Kaur.
 
 - 👩‍💻 I bring a decade of experience turning user friction & product complexity into clarity, adoption & scale.
-- 🎯 I help design content systems, doc pipelines, and knowledge architecture that works both for humans & AI systems.
+- 🎯 I help design content systems and structured knowledge that works both for humans & AI systems.
 - ✍️ I write about the latest technological advancements and make technical topics easier to understand.
 - 📣 Fun Fact: I am a foodie, and my Perfect day starts and ends with Tasty Food.
 
