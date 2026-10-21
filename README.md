@@ -1,17 +1,17 @@
 
-### Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="20" height="20">, I am Prineet Kaur. I build Knowledge and Documentation Systems 👩‍💻
-
-<code> [<img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=bhurji.pk@gmail.com)</code>
-<code>[<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/prineetkaur/)</code> 
-<code> [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@bhurji.pk)</code>
-<code> [<img src="https://img.shields.io/badge/substack-FF6719.svg?&style=for-the-badge&logo=substack&logoColor=white">](https://substack.com/@prineetkaur)</code>
-</code>
+### Hello, I am Prineet Kaur <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="20" height="20">
 
 - 🎓  I'm a Computer Science Engineer with an MSc in Data Science and an MBA in Content Management & Strategy.
 - 👩‍💻  I have a decade of experience designing content, knowledge & docs systems and building the infra to make them operational.
 - 🎯  Focused on technical product content & knowledge systems that can be trusted for both humans and AI.
 - ✍️  I write about the latest technological advancements and make technical topics easier to understand
 - 📣  Fun Fact:  I am a foodie, and my Perfect day starts and ends with Tasty Food 😇
+
+<code> [<img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=bhurji.pk@gmail.com)</code>
+<code>[<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/prineetkaur/)</code> 
+<code> [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@bhurji.pk)</code>
+<code> [<img src="https://img.shields.io/badge/substack-FF6719.svg?&style=for-the-badge&logo=substack&logoColor=white">](https://substack.com/@prineetkaur)</code>
+</code>
 
 ------
 ### Content & Knowledge Systems
