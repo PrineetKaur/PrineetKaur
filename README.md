@@ -1,6 +1,5 @@
 ### Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20" height="20">, I am Prineet Kaur.
 
-- 🎓 I'm a Computer Science Engineer with an MSc in Data Science and an MBA in Product, Content & Strategy
 - 👩‍💻 I bring a decade of experience making complex digital products easier to understand, use, and scale, from user-facing experiences and onboarding to product knowledge, content operations, and automation.
 - 🎯 Interested in how product experiences, structured knowledge, and AI-enabled workflows can work together to improve adoption and make information more useful to both people and AI systems.
 - ✍️ I write about the latest technological advancements and make technical topics easier to understand.
