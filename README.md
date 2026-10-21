@@ -21,7 +21,7 @@
 ---
 
 ### Content Architecture & Knowledge Systems
-`Information Architecture · Content Models · Content Governance · Markdown · MkDocs · GitBook · OpenAPI · DITA`
+`Information Architecture · Content Governance · Markdown · MkDocs · GitBook · OpenAPI · DITA`
 
 ---
 
