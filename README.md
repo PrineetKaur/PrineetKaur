@@ -1,11 +1,10 @@
+### Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20" height="20">, I am Prineet Kaur.
 
-### Hello, I am Prineet Kaur <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="20" height="20">
-
-- 🎓  I'm a Computer Science Engineer with an MSc in Data Science and an MBA in Content Management & Strategy.
-- 👩‍💻  I have a decade of experience designing content, knowledge & docs systems and building the infra to make them operational.
-- 🎯  Focused on technical product content & knowledge systems that can be trusted for both humans and AI.
-- ✍️  I write about the latest technological advancements and make technical topics easier to understand
-- 📣  Fun Fact:  I am a foodie, and my Perfect day starts and ends with Tasty Food 😇
+- 🎓 I'm a Computer Science Engineer with an MSc in Data Science and an MBA.
+- 👩‍💻 I bring a decade of experience making complex digital products easier to understand, use, and scale, from user-facing experiences and onboarding to product knowledge, content operations, and automation.
+- 🎯 Interested in how product experiences, structured knowledge, and AI-enabled workflows can work together to improve adoption and make information more useful to both people and AI systems.
+- ✍️ I write about the latest technological advancements and make technical topics easier to understand.
+- 📣 Fun Fact: I am a foodie, and my Perfect day starts and ends with Tasty Food.
 
 <code> [<img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=bhurji.pk@gmail.com)</code>
 <code>[<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/prineetkaur/)</code> 
@@ -13,20 +12,21 @@
 <code> [<img src="https://img.shields.io/badge/substack-FF6719.svg?&style=for-the-badge&logo=substack&logoColor=white">](https://substack.com/@prineetkaur)</code>
 <code> [<img src="https://img.shields.io/badge/X-000000.svg?&style=for-the-badge&logo=x&logoColor=white" />](https://x.com/PK_Bhurji)</code>
 
-------
-### Content & Knowledge Systems
 
-`Markdown · MkDocs · GitBook · OpenAPI · Confluence · Notion`
+---
 
-------
-### AI, Data & Structured Workflows
+### Product Experience & Adoption
+`Product Discovery · User Research · Journey Mapping · Onboarding · Developer Enablement`
 
-`Python · SQL · n8n · OpenAI · LangChain`
+---
 
-------
-### Developer Enablement & Docs Infrastructure
+### Content Architecture & Knowledge Systems
+`Information Architecture · Content Models · Content Governance · Markdown · MkDocs · GitBook · OpenAPI · DITA`
 
-`GitHub Actions · GitHub Pages · VS Code · Copilot`
+---
+
+### AI, Automation & Connected Workflows
+`Python · SQL · n8n · GitHub Actions · GitHub Pages · OpenAI · LangChain`
 
 ------
 ### Selected Learning & Certifications
