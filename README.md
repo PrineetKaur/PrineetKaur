@@ -14,7 +14,7 @@
 
 ---
 
-### Product Experience & Adoption
+### Product Experience, Adoption & Strategy
 `Product Discovery · User Research · Journey Mapping · Onboarding · Developer Enablement`
 
 ---
