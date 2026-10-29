@@ -15,6 +15,11 @@
 
 ---
 
+### AI, Automation & Connected Workflows
+`Python · SQL · n8n · GitHub Actions · GitHub Pages · OpenAI · LangChain`
+
+---
+
 ### Product Experience, Adoption & Strategy
 `Product Discovery · User Research · Journey Mapping · Onboarding · Developer Enablement`
 
@@ -23,10 +28,6 @@
 ### Content Architecture & Knowledge Systems
 `Information Architecture · Content Governance · Markdown · MkDocs · GitBook · OpenAPI · DITA`
 
----
-
-### AI, Automation & Connected Workflows
-`Python · SQL · n8n · GitHub Actions · GitHub Pages · OpenAI · LangChain`
 
 ------
 ### Selected Learning & Certifications
