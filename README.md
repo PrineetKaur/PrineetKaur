@@ -12,6 +12,9 @@
 <code> [<img src="https://img.shields.io/badge/X-000000.svg?&style=for-the-badge&logo=x&logoColor=white" />](https://x.com/PK_Bhurji)</code>
 
 
+<img align="right" alt="Female developer multitasking" src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="408" />
+
+
 ---
 
 ### Product Experience, Adoption & Strategy
