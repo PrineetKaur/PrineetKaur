@@ -1,5 +1,7 @@
 ### Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20" height="20">, I am Prineet Kaur.
 
+<img align="right" alt="Female developer multitasking" src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="200" />
+
 - 👩‍💻 I bring a decade of experience turning user friction & product complexity into clarity, adoption & scale.
 - 🎯 I build modern content systems and structured knowledge that works both for humans & AI systems.
 - ✍️ I write about the latest technological advancements and make technical topics easier to understand.
@@ -10,10 +12,6 @@
 <code> [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@bhurji.pk)</code>
 <code> [<img src="https://img.shields.io/badge/substack-FF6719.svg?&style=for-the-badge&logo=substack&logoColor=white">](https://substack.com/@prineetkaur)</code>
 <code> [<img src="https://img.shields.io/badge/X-000000.svg?&style=for-the-badge&logo=x&logoColor=white" />](https://x.com/PK_Bhurji)</code>
-
-
-<img align="right" alt="Female developer multitasking" src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="200" />
-
 
 ---
 
