@@ -2,9 +2,9 @@
 
 <img align="right" alt="Female developer multitasking" src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="200" />
 
-- 👩‍💻 I help turn user friction & product complexity into clarity, adoption & scale.
-- 🎯 I build modern knowledge & content systems that work both for humans & AI.
-- ✍️ I write to make technical topics easier to understand for all.
+- 👩‍💻 I help turn user friction and product complexity into clarity, adoption & scale.
+- 🎯 I build modern knowledge and content systems that work both for humans & AI.
+- ✍️ I write to make the latest technical topics easier to understand for all.
 - 📣 Fun Fact: I am a foodie, and my Perfect day starts and ends with Tasty Food.
 
 <code> [<img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=bhurji.pk@gmail.com)</code>
